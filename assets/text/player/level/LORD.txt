@@ -1,0 +1,3 @@
+MALE: "Lord",
+FEMALE: "Lord",
+DESC: "You are recognized as the supreme ruler of your starting region. A Lord is also granted some noble help.",

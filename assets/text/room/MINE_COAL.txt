@@ -1,7 +1,7 @@
 INFO: {
 	NAME: "Coal Mine",
 	NAMES: "Coal Mines",
-	DESC: "Mines extract minerals from the ground. It's efficiency is determined by the density of the minerals along with the auxilery items you place.",
+	DESC: "Mines extract minerals from the ground. It must me partially placed on Coal Deposits. It's efficiency is determined by the density of the deposits along with the auxilery items you place.",
 	WIKI: {
 		CATEGORY: "Industry",
 		NAME: "Mines",

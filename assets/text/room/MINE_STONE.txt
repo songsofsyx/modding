@@ -1,7 +1,7 @@
 INFO: {
 	NAME: "Stone Mine",
 	NAMES: "Stone Mines",
-	DESC: "Mines extract minerals from the ground. It's efficiency is determined by the density of the minerals along with the auxilery items you place.",
+	DESC: "Stone mines extract stones from the ground and must partially be placed on stone deposits. It's efficiency is determined by the density of the deposits along with the auxilery items you place.",
 	WIKI: {
 		CATEGORY: "Industry",
 		NAME: "Mines",

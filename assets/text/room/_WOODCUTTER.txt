@@ -1,0 +1,46 @@
+INFO: {
+	NAME: "Woodcutter",
+	NAMES: "Woodcutters",
+	DESC: "Placed on trees. Will produce wood.",
+	WIKI: {
+		CATEGORY: "Extraction",
+		NAME: "Woodcutters",
+		TEXT: "A designation for where your woodcutters are to conduct their trade. Woodcutters will cut the trees encompassed by the room and produce wood. Woodcutters are a renewable source of wood, and will not exhaust the tress.",
+	},
+},
+
+BONUS: {
+	NAME: "Wood Cutting",
+	DESC: "Increases the output of your Woodcutters",
+},
+
+WORK: {
+	TITLE: "Woodcutter",
+	VERB: "Felling trees",
+},
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers that can be employed.",
+	},
+	{
+		NAME: "Storage",
+		DESC: "The amount of fish that can be stored",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "How well this room will perform. Increased by placing Auxilaries",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Storage",
+		DESC: "Where fishermen will put the caught fish.",
+	},
+	{
+		NAME: "Auxilaries",
+		DESC: "Adds Efficiency to the room.",
+	},
+],

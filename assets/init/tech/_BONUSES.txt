@@ -2,6 +2,7 @@
 
 BATTLE_DAMAGE: "",
 BATTLE_DEFENCE: "",
+MORALE: "", 
 BUILD: "",
 TUNNEL: "",
 MINE: "",
@@ -11,3 +12,4 @@ PASTURE: "",
 FARM: "",
 HUNTING: "",
 FISHING: "",
+HAPPINESS: "",

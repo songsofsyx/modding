@@ -2,11 +2,15 @@ RESOURCES: [],
 AREA_COSTS: [],
 FLOOR: STONE,
 MINI_COLOR: [48,139,204,],
-ITEMS: [],
+ITEMS: [
+	{
+		COSTS: [],
+		STATS: [],
+	},
+],
 
 WORK: {
 	SHIFT_OFFSET: 0.125,
-	SOUND: DIG,
 	USES_TOOL: false,
 },
 

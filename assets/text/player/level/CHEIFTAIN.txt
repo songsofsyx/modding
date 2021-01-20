@@ -1,0 +1,3 @@
+MALE: "Cheiftain",
+FEMALE: "Cheiftain",
+DESC: "Most people of your starting region has heard about you, but few acknowledge your claim to the land. There are still other villages and towns greater than yours.",

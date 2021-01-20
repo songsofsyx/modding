@@ -1,0 +1,28 @@
+TYPE: FISHERY,
+RESOURCES: [WOOD,METAL,FURNITURE,],
+AREA_COSTS: [0,0,0,],
+MINI_COLOR: [74,119,14,],
+
+ITEMS: [
+	{
+		COSTS: [1,0,0,],
+		STATS: [0,1,0,],
+	},
+	{
+		COSTS: [1,1,1,],
+		STATS: [0,0,0.5,],
+	},
+],
+
+
+WORK: {
+	SHIFT_OFFSET: 0.125,
+	SOUND: AXE,
+	USES_TOOL: true,
+},
+
+INDUSTRY: {
+	RESOURCE_IN: [],
+	RESOURCE_OUT: [WOOD,],
+	YEILD_WORKER_DAILY: 3.0,
+},

@@ -1,0 +1,26 @@
+RESOURCES: [STONE,WOOD,METAL,],
+AREA_COSTS: [0.2,0,0,],
+FLOOR: STONE,
+MINI_COLOR: [70,70,70,],
+
+ITEMS: [
+	{
+		COSTS: [2,2,2,],
+		STATS: [1,0.2,0,],
+	},
+	{
+		COSTS: [2,2,2,],
+		STATS: [1,0.2,0,],
+	},
+	{
+		COSTS: [2,2,2,],
+		STATS: [0,0,1,],
+	},
+],
+
+
+WORK: {
+	SHIFT_OFFSET: 0.1,
+	SOUND: FABRIC,
+	USES_TOOL: false,
+},

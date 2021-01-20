@@ -1,0 +1,3 @@
+MALE: "Squire",
+FEMALE: "Squire",
+DESC: "'Who now?' is the response when asked about you in the surrounding villages and towns. Even the farmers just a few miles from towns don't know you.",

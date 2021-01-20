@@ -1,3 +1,23 @@
+humanoid.ai.crime.Murder: {
+	verb: "Murdering",
+},
+humanoid.ai.crime.Theft: {
+	Thieving: "Thieving",
+},
+humanoid.HTYPE: {
+	Subject: "Subject",
+	Subjects: "Subjects",
+	SubjectD: "Subjects are the bulk of your population and will carry out your wishes.",
+	Criminal: "Criminal",
+	Criminals: "Criminals",
+	CriminalD: "Criminals don't work, but spends their days doing mischief. Should be dealt with quickly.",
+	Invador: "Invador",
+	Invadors: "Invadors",
+	InvadorD: "Invadors is a force bent on conquer your city",
+	Nobility: "Nobility",
+	Nobles: "Nobles",
+	NobilityD: "The nobility are above the commin plebs. Do not work in a traditional sense and require the best of services.",
+},
 game.faction.FactionStats: {
 	In: "in",
 	InDesc: "Yearly mount gained",
@@ -18,7 +38,13 @@ game.faction.FactionStats: {
 	OutTribute: "Tribute",
 	OutTributeD: "How much loss through paying tribute to warlords or other factions.",
 },
-game.faction.player.PLAYER: {
+game.faction.player.PlayerLevels: {
+	mTitle: "New title eared!",
+	mMessage: "A new title has been bestowed upon your name. Click the throne for more info.",
+	Title: "Title",
+	As you grow in might and population, titles will be bestowed upon your name. Titles will unlock great advantages to a ruler.: "As you grow in might and population, titles will be bestowed upon your name. Titles will unlock great advantages to a ruler.",
+},
+game.faction.player.PlayerResources: {
 	demolition: "demolition",
 	The amount spent gained by demolishing structures.: "The amount spent gained by demolishing structures.",
 	maintenance: "maintenance",
@@ -29,6 +55,8 @@ game.faction.player.PLAYER: {
 	The amount spent on construction.: "The amount spent on construction.",
 	spoilage: "spoilage",
 	The amount lost due to spoilage.: "The amount lost due to spoilage.",
+	Theft: "Theft",
+	The amount lost due to theft by your criminals.: "The amount lost due to theft by your criminals.",
 },
 init.climate.CLIMATES: {
 	Cold: "Cold",
@@ -39,6 +67,9 @@ init.climate.CLIMATES: {
 	warm_desc: "Hot summers. Year arround farming",
 	Climate: "Climate",
 	desc: "Climate zones have a range of bonuses and drawbacks. Most notably temperatures, which can affect your subjects",
+},
+init.resources.Minable: {
+	minable: "{0} Deposits",
 },
 init.settings.KeyNames: {
 	modCtrl: "ctrl",
@@ -68,6 +99,8 @@ init.settings.KeyNames: {
 	F: "F{0}",
 },
 init.tech.BONUSES: {
+	Bonus: "Bonus",
+	desc: "Bonuses boosts certain areas of the game.",
 	Build: "Build",
 	build_desc: "Increases the speed at which your subject build and dismantle buildings.",
 	Tunnel: "Tunnel",
@@ -90,6 +123,48 @@ init.tech.BONUSES: {
 	hunting_desc: "Allows hunters to collect more resources from wild animals.",
 	Fishing: "Fishing",
 	fishing_desc: "Allows fishermen to produce more fish.",
+	Happiness: "Happiness",
+	happiness_desc: "Increases happiness of all your subjects.",
+	Morale: "Morale",
+	morale_desc: "Increases morale of your soldiers.",
+},
+settlement.entity.humanoid.ai.crime.Flasher: {
+	verb: "Streaking",
+},
+settlement.entity.humanoid.ai.crime.Murder: {
+	verb: "Murdering",
+},
+settlement.entity.humanoid.ai.crime.Theft: {
+	Thieving: "Thieving",
+},
+settlement.entity.humanoid.ai.crime.Vandalism: {
+	name: "Vandalising",
+},
+settlement.entity.humanoid.ai.prisoner.AIModule_Prisoner: {
+	Going into Exile: "Going into Exile",
+},
+settlement.entity.humanoid.ai.prisoner.Prison: {
+	name: "Biding Time",
+},
+settlement.entity.humanoid.ai.work.WorkGuard: {
+	Catching criminal: "Catching criminal",
+},
+settlement.entity.humanoid.HTYPE: {
+	Subject: "Subject",
+	Subjects: "Subjects",
+	SubjectD: "Subjects are the bulk of your population and will carry out your wishes.",
+	Criminal: "Criminal",
+	Criminals: "Criminals",
+	CriminalD: "Criminals don't work, but spends their days doing mischief. Should be dealt with quickly.",
+	Prisoner: "Prisoner",
+	Prisoners: "Prisoners",
+	PrisonerD: "Prisoners are ex criminals, or other foes who have been caught by your law enforcement. If you have prisons, courts or execution squares, prisoners will go there to await justice.",
+	Invador: "Invador",
+	Invadors: "Invadors",
+	InvadorD: "Invadors is a force bent on conquer your city",
+	Nobility: "Nobility",
+	Nobles: "Nobles",
+	NobilityD: "The nobility are above the commin plebs. Do not work in a traditional sense and require the best of services.",
 },
 settlement.environment.SettEnvMap: {
 	Noise: "Noise",
@@ -102,6 +177,8 @@ settlement.environment.SettEnvMap: {
 	harmonyD: "Harmony is gained from certain monuments and roads and have different effects of your subjects depending on species.",
 	Dread: "Dread",
 	dreadD: "Dread is gained from certain monuments and roads and have different effects of your subjects depending on species.",
+	Law Enforcement: "Law Enforcement",
+	lawD: "Law is emitted by guard posts and prevents crime. The guard posts must also be manned in order actually prevent crime.",
 },
 settlement.environment.SettSquareness: {
 	squareness: "squareness",
@@ -129,12 +206,33 @@ settlement.room.food.pasture.Gui: {
 	SlaughterAll: "Slaughter all?",
 	SlaughterAllDesc: "Slaughter all animals and immidiately recieve some produce?",
 },
-settlement.room.goods.export.Gui: {
+settlement.room.industry.mine.MineFactory: {
+	itProblem: "Must not be placed on deposits",
+},
+settlement.room.industry.woodcutter.Constructor: {
+	problem: "Must not be placed on trees",
+},
+settlement.room.infra.export.Gui: {
 	Limit: "Exports when over",
 	Buyers: "Buyers",
 	Stored: "Stored",
 	Outbound: "Outbound",
 	Orders: "Orders",
+},
+settlement.room.infra.hauler.Gui: {
+	hauled: "hauled",
+	fetch: "fetch",
+	fetchDesc: "Enabled means resources will also be fetched from other storage depots in your city.",
+},
+settlement.room.infra.janitor.Gui: {
+	Missing: "Missing Resources",
+	MissingDesc: "Depending on what is maintained and repaired, certain resources might be required. A janitor will search for these in a radius of 150 tiles and if not found, maintenance work will be much slower.",
+	Penalty: "Penalty:",
+},
+settlement.room.infra.stockpile.Gui: {
+	emptyTo: "Empty To:",
+	Choose: "Choose Another Warehouse, not one that's already emptying to this warehouse:",
+	emptyToDesc: "If there is nothing to collect within the radius, the workers will start delivering non-fetching resources to this other stockpile.",
 },
 settlement.room.main.job.RoomResDepositOR: {
 	accept: "accept",
@@ -147,9 +245,6 @@ settlement.room.main.RoomCategories: {
 settlement.room.main.RoomIsolation: {
 	isolation: "isolation",
 	desc: "Isolation prevents room degrade and sound pollution. Achieved by surrounding rooms with walls and few doorways",
-},
-settlement.room.mine.MineFactory: {
-	itProblem: "Must not be placed on deposits",
 },
 settlement.room.service.kitchen.Gui: {
 	use: "Use as ingredient",
@@ -195,7 +290,6 @@ settlement.stats.StatsStored: {
 settlement.tilemap.GuiTerrainHoverInfo: {
 	fertility: "Fertility",
 	Degrade: "Degrade:",
-	MainOn: "Maintaining",
 },
 view.main.KEY: {
 	Scroll-Left: "Scroll-Left",
@@ -205,6 +299,7 @@ view.main.KEY: {
 	Zoom-In: "Zoom-In",
 	Zoom-Out: "Zoom-Out",
 	Minimap: "Minimap",
+	Throne: "Throne/Capitol",
 	Rotate: "Rotate",
 	Increase: "Increase",
 	Decrease: "Decrease",
@@ -243,7 +338,6 @@ view.sett.ui.room.ModuleDegrade: {
 	DEGRADE: "Degrade",
 	DEGRADE_AVE: "Average degrade amongst these room. Degrade affects a room negativly",
 	DEGRADE_DESC: "Degrade affects rooms negativly. Janitors and idle people will maintain rooms. Some maintenance requires materials.",
-	WorkNeeded: "Work Needed",
 	Rate: "Rate",
 	RateDesc: "All rooms degrade. The degrade can increase further at construction, if the room is big and not supported by inner walls. Lack of isolation also increases degrade.",
 },
@@ -253,11 +347,14 @@ view.sett.ui.room.ModuleEmployment: {
 	WORKLOAD: "Workload",
 	WORKLOAD_DESC: "How busy your employees are. If workload is low, it means some of the workers have nothing to do and is waisting their time. If workload is 100%, your workers might have too much to do and the room might need to have more workers allocated.",
 	SHIFT_START: "What time the work shift starts",
+	SHIFT_NIGHT: "This room is employed all hours of the day.",
 	WORKERS_INC: "Workers +{0}",
 	WORKERS_DEC: "Workers -{0}",
 	WORKERS_NONE: "Insufficient workers available. If there are idle subjects, these will soon sign up and start working",
 	WORKERS_INSUFFICIENT: "No workers assigned!",
 	WORKERS_INSPECT: "Inspect workers",
+	AUTO: "Auto Employ",
+	AUTO_DESC: "Let the AI adjust worker amount each day based on workload.",
 },
 view.sett.ui.room.ModuleIndustry: {
 	Production: "Production",
@@ -289,23 +386,43 @@ view.sett.ui.room.ModuleRadius: {
 view.sett.ui.room.ModuleService: {
 	NO: "No Available Sevices",
 	AVAILABLE: "Available",
+	USED: "Currently Used",
+	NEEDS: "Needs Work",
 	TOTAL: "Total",
 	USAGE: "Usage",
 	USAGE_DESC: "The load of this service fascility. If load is low, it means there are more services available than are needed. If load is high, it means there are too few to meet demand",
 },
-view.sett.ui.room.UIMaintenance: {
-	Maintenance: "Maintenance",
-	desc: "Set at what shape you desire your roads and rooms to be in. High values mean more manpower and resources spend on maintenance",
-},
 view.sett.ui.room.UIRoom: {
 	delete: "Are you sure you want to delete this room?",
-	Maintained: "Maintained",
-	MaintainedNot: "Not Maintained",
 	NoProblem: "Fully Operational",
 },
 view.sett.ui.room.UIRoomPlacer: {
 	extra: "Extra Expenses",
 	extraDesc: "When rooms are built too deep, extra materials must be used to build and maintain it. Support the room with pillars and inner walls, or build it in another shape.",
+},
+view.tool.PlacableFixedTool: {
+	mWheel: "Mouse Wheel",
+	increase: "increase",
+	decrease: "decrease",
+	rotate: "rotate",
+},
+view.tool.PlacableMorphTool: {
+	mWheel: "Mouse Wheel",
+	increase: "increase",
+	decrease: "decrease",
+},
+view.tool.PlacableMultiTool: {
+	MWheel: "Mouse Wheel",
+	increase: "increase",
+	decrease: "decrease",
+	type: "type",
+},
+view.ui.UILevel: {
+	PopReq: "Population required: ",
+	Nobles: "Nobles to appoint: ",
+	Regions: "Regions to claim: ",
+	Bonuses: "Bonuses: ",
+	Status: "Status",
 },
 view.ui.UIPanelGoods: {
 	Stored: "Stored",
@@ -345,9 +462,7 @@ view.ui.UIPanelTech: {
 	Desc: "Inspect your knowledge levels and unlock technologies",
 },
 view.ui.UIPanelTrade: {
-	Stored: "Stored",
-	buyers: "buyers",
-	sellers: "sellers",
+	Capacity: "Capacity",
 	ImportCapacity: "Import Capacity",
 	ImportCapacityDesc: "The available space in your delivery depots for import and tribute, minus stored and incoming goods.",
 	ImportLevel: "Import Level",
@@ -362,6 +477,22 @@ view.ui.UIPanelTrade: {
 	Exports: "Exports",
 	Name: "Trade",
 	Desc: "An overview of your trade",
+	Inbound: "Inbound",
+	Outbound: "Outbound",
+	Importable: "Importable",
+	Exportable: "Exportable",
+	Amount: "Amount",
+	Stored: "Stored",
+	buyers: "buyers",
+	sellers: "sellers",
+	Treasury: "Treasury",
+	Toll: "Toll",
+	sell price: "sell price",
+},
+view.ui.UITopPanel: {
+	wiki: "wiki",
+	developer-tools: "developer-tools",
+	menu: "menu",
 },
 view.world.editor.EditorLandmark: {
 	Region: "Region",
@@ -431,7 +562,7 @@ view.world.ui.UIRegionDetailE: {
 	Exhaust: "Exhaust. Harvest this resource at x1.5 speed, but use up deposits x3 faster.",
 	Tax: "Current taxation. The more you tax, the higher the output of your resources. Taxation currently has no negative effects, so put it at max. It takes awhile for the actual taxation to change though.",
 	TaxCurrent: "Effective Tax: ",
-	require: "You require {0} might to actually tax this region",
+	require: "You can't actually tax this region yet. Improve your repuation in order to do so.",
 	Claim!: "Claim!",
 	taxes: "taxes",
 	Tax Distribution: "Tax Distribution",
@@ -466,8 +597,7 @@ world.map.region.GeneratorInit: {
 world.map.region.Realm: {
 	Other: "Belongs to another realm",
 	TooFar: "Too distant to claim",
-	Requires: "Requires",
-	Might: "Might",
+	Requires: "Requires a higher reputation to claim. Improve your reputation.",
 },
 menu.GUI: {
 	back: "< back",

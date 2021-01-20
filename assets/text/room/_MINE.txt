@@ -6,7 +6,7 @@ ITEMS: [
 	},
 	{
 		NAME: "Auxiliaries",
-		DESC: "Increases performance of mines. Must not be placed on the actual mineral deposits.",
+		DESC: "Increases performance of mines. Must not be placed on the actual deposits.",
 	},
 ],
 
@@ -17,7 +17,7 @@ STATS: [
 	},
 	{
 		NAME: "Deposits",
-		DESC: "The amount deposits",
+		DESC: "The amount deposits. A mine must partially be placed on top of deposits.",
 	},
 	{
 		NAME: "Output",
