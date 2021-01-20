@@ -1,0 +1,2 @@
+NAME: "Looms",
+DESC: "An industrial breakthrough has allowed us to make use of looms and flying shuttles when weaving. These machines have reduced the time that our weavers have had to spend to make textiles and thus, our output of textiles has significantly increased.",

@@ -1,0 +1,2 @@
+NAME: "Weak Point Education",
+DESC: "Our biologists know that every animal has a weak spot which when hit, brings down any beast however large, with relative ease. After analysing the general sort of clothing and armour that our enemies wear, and the biology of our enemies and potential enemies, we have identified several points, such as around the arm pits and between the ankle and calf, that are unarmoured and vulnerable to attack. Teaching our warrior to strike their will bring down our enemies faster.",

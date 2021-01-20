@@ -1,0 +1,2 @@
+NAME: "Bahmerline Howl",
+DESC: "The ancient Tellerians had an ancient tactic of producing a howl as they attacked, by utilising specific parts of their vocal cords to produce a howl that stunned their enemies for a few seconds allowing their frontline warriors to take first blood against the enemy. We can copy this and teach our soldiers how to scream as such, to stun the enemy.",

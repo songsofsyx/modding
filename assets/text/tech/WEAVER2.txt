@@ -1,0 +1,2 @@
+NAME: "Improved Looms and Shuttles",
+DESC: "Our carpenters have found ways to make our looms more robust, and also, improved the mechanisms that are used by our weavers. As a result, up to six shuttles can now be implemented in one device, increasing our overall textile production, without increasing the cost for either the textile or the machinery involved in its production.",

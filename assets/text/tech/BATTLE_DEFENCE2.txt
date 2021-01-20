@@ -1,0 +1,2 @@
+NAME: "Defensive Martial Arts",
+DESC: "Known as Rho blocking, travelling monks have been convinced to teach our scribes (who quickly wrote everything down afterwards) about how to train oneself to block even a strike by a cleaver with one's hands with mental and physical conditioning. Having transcribed these lessons, and after seeing the monks demonstrate them to great effect, we feel comfortable in teaching them to or own warriors to be able to defend themselves even when unarmed.",

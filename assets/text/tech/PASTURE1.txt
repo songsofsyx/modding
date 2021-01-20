@@ -1,0 +1,2 @@
+NAME: "Fattener",
+DESC: "Our shepherds have discovered a particular type of herb that grows in secluded places, but is easily farmed in large quantities, which when seeded in the pastures, and fed to our livestock, has led to our animals gaining more weight. Repeated use of this has shown also that the amount of inedible fat has also decreased. This thus has increased the yield from our pastures.",

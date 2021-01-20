@@ -1,0 +1,9 @@
+NAME: "Paper",
+NAMES: "Papers",
+DESC: "Paper is the basis of knowledge, used by libraries.",
+WIKI: {
+	NAME: "Paper",
+	TEXT: "Paper is the basis of knowledge, used by libraries.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Secondary Resource",],
+},

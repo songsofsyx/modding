@@ -1,0 +1,2 @@
+NAME: "Battlegear",
+DESC: "Determines deadliness on the battlefield. Level is set in the divison tab.",

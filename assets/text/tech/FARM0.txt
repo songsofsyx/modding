@@ -1,0 +1,2 @@
+NAME: "Permaculture",
+DESC: "Insights into agricultural systems help us understand how to make our crops thrive in harmony with the environment. The changed frame of mind of our farmers, and their mimicking of natural patterns and forms in nature, have led them to modify the way that they ploughed the ground, amongst other things. This allows a smarter distribution of seeds, and also better care for our crops, increasing overall yield.",

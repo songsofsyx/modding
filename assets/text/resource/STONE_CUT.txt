@@ -1,0 +1,9 @@
+NAME: "Cut Stone",
+NAMES: "Cut Stone",
+DESC: "Cut Stone is used in a variety of structures.",
+WIKI: {
+	NAME: "Cut Stone",
+	TEXT: "Cut Stone is a Tertiary Resource. It is used in constructing Fine Walls and Roofs. It is also used in a few rooms, such as the Bathhouse. It is produced from Stone, a Primary Resource, by the Stonecutter.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Tertiary Resource",],
+},

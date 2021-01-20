@@ -1,0 +1,2 @@
+NAME: "Selective Breeding",
+DESC: "Selective breeding or artificial selection by our farmers has led to an increase in the amount of meat produced by our livestock. They choose the most healthy, largest and strongest specimens to breed and this leads to healthier, larger and stronger offspring, increasing the quality and yield from the slaughtering of the same number of animals.",

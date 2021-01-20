@@ -1,0 +1,42 @@
+INFO: {
+	NAME: "Monument",
+	NAMES: "Monuments",
+	DESC: "Spreads awe in your settlement",
+	WIKI: {
+		CATEGORY: "Decoration",
+		NAME: "Monument",
+		TEXT: "Placed preferably where subjects and visitors can see them, monuments increases your influence and inspires awe in your subjects. Bigger monuments has bigger impacts",
+	},
+},
+
+BONUS: {
+	NAME: "Awesomeness",
+	DESC: "Increases the awe of your monuments.",
+},
+
+
+ITEMS: [
+	{
+		NAME: "Statues",
+		DESC: "Big stone monuments.",
+	},
+	{
+		NAME: "Trees",
+		DESC: "",
+	},
+],
+
+STATS: [
+	{
+		NAME: "Awe",
+		DESC: "Increases surrounding awe.",
+	},
+	{
+		NAME: "Harmony",
+		DESC: "Increases surrounding harmony.",
+	},
+	{
+		NAME: "Dread",
+		DESC: "Increases surrounding dread.",
+	},
+],

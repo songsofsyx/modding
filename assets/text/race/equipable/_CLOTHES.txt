@@ -1,0 +1,2 @@
+NAME: "Clothes",
+DESC: "Clothes help protect against the weather. Subjects exposed to cold and hot temperatures might die, or get sick. Clothes also helps to elevate a subjects self-esteem",

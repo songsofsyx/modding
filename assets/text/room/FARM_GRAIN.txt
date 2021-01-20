@@ -1,0 +1,35 @@
+INFO: {
+	NAME: "Grain Farm",
+	NAMES: "Grain Farms",
+	DESC: "Grows grain.",
+	WIKI: {
+		CATEGORY: "Agriculture",
+		NAME: "Grain Farm",
+		TEXT: "Grain is a Primary Resource. It is harvested from the wild or else grown in farms by Farmers. It can be eaten immediately after harvesting, or else used in a Kitchen. Cooked food satisfies your people more. It is not used in any other production line.",
+	},
+},
+
+BONUS: {
+	NAME: "Grain Farming",
+	DESC: "Increases production of Grain farming.",
+},
+
+WORK: {
+	TITLE: "Grain Farmer",
+	VERB: "Farming",
+},
+
+STATS: [
+	{
+		NAME: "Fertility",
+		DESC: "The fertility of the farmland",
+	},
+	{
+		NAME: "Farmers",
+		DESC: "The amount of Farmers needed",
+	},
+	{
+		NAME: "Output",
+		DESC: "An estimate of how much this farm will output if well worked. Not including bonuses, or irrigation",
+	},
+],

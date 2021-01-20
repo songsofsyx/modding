@@ -1,0 +1,9 @@
+NAME: "Cotton",
+NAMES: "Cotton",
+DESC: "Cotton is used to make Fabric",
+WIKI: {
+	NAME: "Cotton",
+	TEXT: "Cotton is a Primary Resource. It is either procured from wild Cotton patches or else farmed. It is the only resources bar Opiates, another Primary Resource, that has only one purpose, namely that of being used by Weavers to make Fabric, a Secondary Resource.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Primary Resource",],
+},

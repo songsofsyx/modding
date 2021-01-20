@@ -1,0 +1,42 @@
+INFO: {
+	NAME: "Papermaker",
+	NAMES: "Papermakers",
+	DESC: "Pakes paper out of wood.",
+	WIKI: {
+		CATEGORY: "Industry",
+		NAME: "Paper Workshop",
+		TEXT: "Makes paper",
+	},
+},
+
+BONUS: {
+	NAME: "Paper Making",
+	DESC: "Increases effetiveness of Paper Workshops",
+},
+
+WORK: {
+	TITLE: "Papermaker",
+	VERB: "Making Paper",
+},
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Efficiency increases production",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Work Bench",
+		DESC: "Where subjects work",
+	},
+	{
+		NAME: "Auxilary Station",
+		DESC: "Adds Efficiency to the room",
+	},
+],

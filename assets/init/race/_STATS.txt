@@ -1,0 +1,290 @@
+DECREES: {
+	FOOD_LEVEL: 0.0,
+	RETIREMENT_AGE: 0.0,
+	ENSLAVE: 0.0,
+},
+
+PROPERTIES: {
+	RESISTANCE_HOT: 0.2,
+	RESISTANCE_COLD: 0.2,
+	ARMOUR: 0.2,
+	PIERCE_DAMAGE: 0,
+	OFFENSE_SKILL: 0,
+	DEFENSE_SKILL: 0,
+	STAMINA: 0.5,
+	STRENGTH: 0.4,
+	WORK_PROFICIENCY: 0,
+	DEFECATE_RATE: 0.5,
+	SOIL_RATE: 0.5,
+	HUNGER_RATE: 0.5,
+	HEAL_RATE: 0.25,
+	HEAL_NATURALLY_ABOVE: 0.5,
+	SLEEP_RATE: 0.5,
+	IMMUNE_DEFENCE: 0.5,
+	SKINNYDIPS: 0.8,
+	CANNIBALIZE_TENDENCY: 0.1,
+	MOURNING_RATE: 0.5,
+	DEATH_AGE: 230,
+	OLD_AT: 0.7,
+	INTELLIGENCE: 0.5,
+},
+
+MISC: {
+	AGE: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	POPULATION: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	NOBLES: {
+		FROM: 1,
+		TO: 1.5,
+		MULTIPLIER: 1,
+	},
+	BURRIAL_RESPECT: {
+		FROM: 1,
+		TO: 1.5,
+		MULTIPLIER: 1,
+	},
+	GRAVE_DESECRATION: {
+		FROM: 2,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+
+	EMIGRATING: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	IMMIGRANT: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	ENSLAVED: {
+		FROM: 10,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	CHOSEN: {
+		FROM: 1,
+		TO: 2,
+		MULTIPLIER: 1,
+	},
+},
+
+ENVIRONMENT: {
+	CORPSES: {
+		FROM: 2,
+		TO: 1,
+		MULTIPLIER: 5,
+	},
+	BUILDING_PREF: {
+		FROM: 1,
+		TO: 1.2,
+		MULTIPLIER: 1,
+	},
+	EXPOSURE_COLD: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	EXPOSURE_HOT: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	MAJORITY: {
+		FROM: 1,
+		TO: 1.5,
+		MULTIPLIER: 1,
+	},
+	SQUARENESS: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	NOISE: {
+		FROM: 1.5,
+		TO: 1.0,
+		MULTIPLIER: 1,
+	},
+},
+
+FOOD: {
+	STARVATION: {
+		FROM: 5,
+		TO: 1,
+		MULTIPLIER: 100,
+	},
+	FOOD_RATIONS: {
+		FROM: 1,
+		TO: 2,
+		MULTIPLIER: 1,
+	},
+	FOOD_PREFFERENCE: {
+		FROM: 1,
+		TO: 1.5,
+		MULTIPLIER: 1,
+	},
+	FOOD_DAYS: {
+		FROM: 1,
+		TO: 1.5,
+		MULTIPLIER: 1.0,
+	},
+
+},
+
+
+
+
+WORK: {
+	RETIRED: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	RETIREMENT_AGE: {
+		FROM: 1.0,
+		TO: 5.0,
+		MULTIPLIER: 1,
+	},
+	WORK_SKILL: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	EMPLOYED: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1.0,
+	},
+	EMPLOYMENT_RATE: {
+		FROM: 1,
+		TO: 2,
+		MULTIPLIER: 1.0,
+	},
+	WORK_FULFILLMENT: {
+		FROM: 1,
+		TO: 1.5,
+		MULTIPLIER: 1,
+	},
+	WORK_FORCE: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	WORK_TIME: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+},
+
+BATTLE: {
+	COMBAT_TRAINING: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	COMBAT_EXPERIENCE: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	ENEMY_KILLS: {
+		FROM: 1,
+		TO: 1.1,
+		MULTIPLIER: 1,
+	},
+	ARMY: {
+		FROM: 1,
+		TO: 1.2,
+		MULTIPLIER: 1.0,
+	},
+	SOLDIERS: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1.0,
+	},
+	RECRUITS: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1.0,
+	},
+	ROUTING: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1.0,
+	},
+},
+
+NEEDS: {
+	DIRTINESS: {
+		FROM: 1.5,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	INJURIES: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	EXHAUSTION: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	CONSTIPATION: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	SLEEPINESS: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	HUNGER: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+},
+
+ACCESS: {
+	ACCESS_ROAD: {
+		FROM: 1,
+		TO: 1.5,
+		MULTIPLIER: 1,
+	},
+	ACCESS_LIGHT: {
+		FROM: 1,
+		TO: 1.5,
+		MULTIPLIER: 1,
+	},
+	ACCESS_AWE: {
+		FROM: 1,
+		TO: 1.5,
+		MULTIPLIER: 1,
+	},
+	ACCESS_DREAD: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+	ACCESS_HARMONY: {
+		FROM: 1,
+		TO: 1,
+		MULTIPLIER: 1,
+	},
+},
+
+STORED: {
+
+},

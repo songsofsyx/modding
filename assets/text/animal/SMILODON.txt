@@ -1,0 +1,13 @@
+INFO: {
+	NAME: "Smilodon",
+	NAMES: "Smilodons",
+	DESC: "A deadly, fast killing machine. . .",
+	WIKI: {
+		CATEGORY: "Animals",
+		NAME: "Smilodon",
+		TEXT: 
+		"A deadly, fast, killing machine, this huge omnivore can run down any other known grounded animal. It is often smart enough to stay away from Dondorians and other bipedal, tool using creatures, but does not shy away from a fight, and often wins one-on-one battles with them. While its meat is edible, it is nothing spectacular as a creature, albeit trophies taken from them elicit several entertaining stories from hunters at the tavern.",
+		KEY: "ANIMAL_SMILODON",
+		LINKS: [],
+	},
+},

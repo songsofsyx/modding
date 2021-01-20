@@ -1,0 +1,9 @@
+NAME: "Mushroom",
+NAMES: "Mushrooms",
+DESC: "Mushrooms are a food source.",
+WIKI: {
+	NAME: "Mushrooms",
+	TEXT: "Mushrooms are a Primary Resource. Mushrooms are harvested from wild patches or else grown indoors, unlike any other farmable food sources. They can be eaten fresh, or else used in the Kitchen. Cooked food satisfies you people more. It is not used in any other form of production.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Primary Resource",],
+},

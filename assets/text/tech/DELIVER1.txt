@@ -1,0 +1,2 @@
+NAME: "Wheelbarrow Revolution",
+DESC: "A new wheelbarrow design, adding a third wheel, and with a frame consisting of various materials allow increased volume to be carried within. These larger, but not heavier wheelbarrows have further increased the amount of goods that our deliverymen can transport over one journey.",

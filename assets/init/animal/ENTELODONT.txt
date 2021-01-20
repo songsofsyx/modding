@@ -1,0 +1,19 @@
+MASS: 55,
+SPEED: 4,
+HEIGHT: 5,
+
+SOUND: SHEEP,
+
+SPRITE: Entelodont,
+COLOR: [255,255,255,],
+
+CARAVAN: false,
+
+RESOURCES: [MEAT,],
+RESOURCE_AMOUNT: [0.6,],
+
+CLIMATE: {
+	COLD: 0.5,
+	TEMPERATE: 1,
+	HOT: 0.5,
+},

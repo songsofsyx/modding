@@ -1,0 +1,16 @@
+RESOURCES: [WOOD,STONE,STONE_CUT,],
+AREA_COSTS: [0,0,0,],
+FLOOR: STONE,
+MINI_COLOR: [48,139,204,],
+
+ITEMS: [
+	{
+		COSTS: [0,1,5,],
+		STATS: [1,0,0,],
+	},
+	{
+		COSTS: [5,1,0,],
+		STATS: [0,2,0,],
+	},
+],
+

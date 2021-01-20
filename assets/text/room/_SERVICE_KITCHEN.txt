@@ -1,0 +1,56 @@
+INFO: {
+	NAME: "Kitchen",
+	NAMES: "Kitchens",
+	DESC: "Where cooks turn raw food items into tasty meals.",
+	WIKI: {
+		CATEGORY: "Service",
+		NAME: "Kitchens",
+		TEXT: "The kitchens are places where chefs cook food, turning raw food into tasty meals which are far more nutritious and beneficial to your populace than raw individual pieces of food.",
+		KEY: "BARRACKS",
+		LINKS: [],
+	},
+},
+
+WORK: {
+	TITLE: "Chef",
+	VERB: "cooking a meal",
+},
+
+STATS: [
+
+	{
+		NAME: "Storage",
+		DESC: "The of dishes this kitchen can hold",
+	},
+	{
+		NAME: "Cooking Stations",
+		DESC: "Amount of cooking stations for your chefs",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Increases cooking speed",
+	},
+],
+
+ITEMS: [
+	
+	{
+		NAME: "Storage",
+		DESC: "Increases dish capacity",
+	},
+	{
+		NAME: "Cooking station",
+		DESC: "Increases cooking stations",
+	},
+	{
+		NAME: "Auxilaries",
+		DESC: "Increases efficiency",
+	},
+],
+
+SERVICE: {
+	NAME: "Meal",
+	NAMES: "Meals",
+	DESC: "The amount of meals to be eaten",
+	VERB: "Grabbing meal",
+},

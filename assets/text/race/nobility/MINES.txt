@@ -1,0 +1,4 @@
+INFO: {
+	NAME: "Master of Mines",
+	DESC: "The Master of mines handles our our mines and boosts production.",
+},

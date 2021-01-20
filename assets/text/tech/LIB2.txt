@@ -1,0 +1,2 @@
+NAME: "Standardised Form",
+DESC: "Our libraries are full of books, stone tablets and even loose scrolls, each taking up a different amount of space. Many of the books themselves are of different size for each other. Our Scribes have undertaken to copy all works onto standardised books, eliminating the large stone tablets quickly for instance. This allowed space to be saved, and also mistakes to be corrected. They also look nicer when they are all uniform. Overall this has increased the efficiency of our libraries, and the work of our scribes and librarians.",

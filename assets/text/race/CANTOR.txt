@@ -1,0 +1,15 @@
+NAME: "Cantor",
+NAMES: "Cantors",
+POSSESSIVE: "Cantorian",
+DESC: 
+"Kantors are mythical giants. what few that remains are primarely found in the north. They excell at most things, but are difficult to obtain and please."
+",
+DESC_LONG:
+"
+Cantors were the protectors of the Istari themselves. They fought alongside them in the final war of the gods and the few that survived wandered north. Having one in your city is a privilege and they excel at many things, werring one of them. Don't be thoughtless with their lives, though, as there are not many of them left. They have a distaste for humans.
+",
+
+FIRST_NAMES: StdFirst,
+SURNAMES: StdLast,
+FIRST_NAMES_NOBLE: StdFirstNoble,
+SURNAMES_NOBLE: StdLastNoble,

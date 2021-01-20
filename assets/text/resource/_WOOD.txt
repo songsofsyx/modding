@@ -1,0 +1,9 @@
+NAME: "Wood",
+NAMES: "Wood",
+DESC: "Wood is a basic building material",
+WIKI: {
+	NAME: "Wood",
+	TEXT: "Wood is a Primary Resource. The importance of this resource cannot be overstated. It is used predominantly as a construction material, and  is needed to construct the Carpenter's room which produces Furniture, a Secondary Resource, from wood. Wood is also used by the Coaler to make Coal, which is a Secondary Resource. It is harvested from Trees. Trees can be planted individually and those chopped can regrow.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Primary Resource",],
+},

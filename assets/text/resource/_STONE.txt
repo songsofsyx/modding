@@ -1,0 +1,9 @@
+NAME: "Stone",
+NAMES: "Stone",
+DESC: "Stone is a basic building material.",
+WIKI: {
+	NAME: "Stone",
+	TEXT: "Stone, a Primary Resource is a used in the construction of any ordinary stone building. It is needed by the Stone Cutter to make Cut Stone, which is a Tertiary Resource. Stone is a resource harvested from stone either on the ground or from mountains.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Primary Resource",],
+},

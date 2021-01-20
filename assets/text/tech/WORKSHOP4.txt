@@ -1,0 +1,2 @@
+NAME: "Assembly Line Production",
+DESC: "Combining all developments in the workspace, with a reconfiguration of the positioning of work stations and the redistribution of the tasks each worker did, to work on items in steps in sequence between workers has allowed workers to become experts in their specialised jobs, thus carrying them out faster, and thus, increasing overall production.",

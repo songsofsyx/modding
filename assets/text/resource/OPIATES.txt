@@ -1,0 +1,9 @@
+NAME: "Opiate",
+NAMES: "Opiates",
+DESC: "Opiates aren't used yet.",
+WIKI: {
+	NAME: "Opiates",
+	TEXT: "Opiates currently do not have a purpose. They are a Primary Pesource harvested from wild patches or from farms.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Primary Resource",],
+},

@@ -1,0 +1,35 @@
+INFO: {
+	NAME: "Mushroom Farm",
+	NAMES: "Mushroom Farms",
+	DESC: "Grows Mushroom.",
+	WIKI: {
+		CATEGORY: "Agriculture",
+		NAME: "Mushroom Farm",
+		TEXT: "Mushrooms are a Primary Resource. Mushrooms are harvested from wild patches or else grown indoors, unlike any other farmable food sources. They can be eaten fresh, or else used in the Kitchen. Cooked food satisfies you people more. It is not used in any other form of production.",	
+	},
+},
+
+BONUS: {
+	NAME: "Mushroom Farming",
+	DESC: "Increases production of Mushroom farming.",
+},
+
+WORK: {
+	TITLE: "Mushroom Farmer",
+	VERB: "Farming",
+},
+
+STATS: [
+	{
+		NAME: "Fertility",
+		DESC: "The fertility of the farmland",
+	},
+	{
+		NAME: "Farmers",
+		DESC: "The amount of Farmers needed",
+	},
+	{
+		NAME: "Output",
+		DESC: "The amount of Farmers needed",
+	},
+],

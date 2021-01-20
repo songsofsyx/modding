@@ -1,0 +1,17 @@
+INFO: {
+	NAME: "Janitor",
+	NAMES: "Janitors",
+	DESC: "Does odd jobs and maintenance around their vicinity.",
+	WIKI: {
+		CATEGORY: "Infrastructure",
+		NAME: "Janitors",
+		TEXT: "The janitor outpost is the post from where janitors can be employed who are charged to conduct maintance within the outpost's. They are more efficient at these tasks than unemployed odd-jobbers.",
+	},
+},
+
+WORK: {
+	TITLE: "Janitor",
+	VERB: "Working",
+},
+
+ITEMS: [],

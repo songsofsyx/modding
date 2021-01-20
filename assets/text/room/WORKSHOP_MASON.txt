@@ -1,0 +1,44 @@
+INFO: {
+	NAME: "Masonry",
+	NAMES: "Masonries",
+	DESC: "Turns stone into cut stone",
+	WIKI: {
+		CATEGORY: "Industry",
+		NAME: "Masons",
+		TEXT: "Turns stone into cut stone. Cut Stone is a Tertiary Resource. It is used in constructing Fine Walls and Roofs. It is also used in a few rooms, such as the Bathhouse. It is produced from Stone, a Primary Resource, by the Stonecutter.",
+		KEY: "BARRACKS",
+		LINKS: [],
+	},
+},
+
+BONUS: {
+	NAME: "Stone Carving",
+	DESC: "Increases effetiveness of Masons",
+},
+
+WORK: {
+	TITLE: "Mason",
+	VERB: "Cutting stone",
+},
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Efficiency increases production",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Work Bench",
+		DESC: "Where subjects work",
+	},
+	{
+		NAME: "Auxilary Station",
+		DESC: "Adds Efficiency to the room",
+	},
+],

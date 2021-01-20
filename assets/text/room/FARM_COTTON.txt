@@ -1,0 +1,35 @@
+INFO: {
+	NAME: "Cotton Farm",
+	NAMES: "Cotton Farms",
+	DESC: "Grows Cotton.",
+	WIKI: {
+		CATEGORY: "Agriculture",
+		NAME: "Cotton Farm",
+		TEXT: "Cotton is a Primary Resource. It is either procured from wild Cotton patches or else farmed. It is the only resources bar Opiates, another Primary Resource, that has only one purpose, namely that of being used by Weavers to make Fabric, a Secondary Resource.",	
+	},
+},
+
+BONUS: {
+	NAME: "Cotton Farming",
+	DESC: "Increases production of Cotton farming.",
+},
+
+WORK: {
+	TITLE: "Fruit Farmer",
+	VERB: "Farming",
+},
+
+STATS: [
+	{
+		NAME: "Fertility",
+		DESC: "The fertility of the farmland",
+	},
+	{
+		NAME: "Farmers",
+		DESC: "The amount of Farmers needed",
+	},
+	{
+		NAME: "Output",
+		DESC: "An estimate of how much this farm will output if well worked. Not including bonuses, or irrigation",
+	},
+],

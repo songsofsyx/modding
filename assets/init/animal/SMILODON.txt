@@ -1,0 +1,19 @@
+MASS: 75,
+SPEED: 6,
+HEIGHT: 7,
+
+SOUND: LION,
+
+SPRITE: Smilodon,
+COLOR: [255,255,255,],
+
+CARAVAN: false,
+
+RESOURCES: [MEAT, PELT,],
+RESOURCE_AMOUNT: [0.5, 0.05,],
+
+CLIMATE: {
+	COLD: 0.0,
+	TEMPERATE: 0.5,
+	HOT: 0.1,
+},

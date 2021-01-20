@@ -1,0 +1,2 @@
+NAME: "Ergonomics",
+DESC: "Ergonomics refers to specific positions and states of being of the workspace of any given worker, including things like specialised seating, posture disciplining, and so on. The implementation of these specific, important, yet very cheap modifications, while requiring much trial and error, has proved to do wonders to improve the work and lives of our workers.",

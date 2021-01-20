@@ -1,0 +1,64 @@
+WARNING_FIRST: {
+	TITLE: "Krull the Merciless",
+	MESSAGE: "A Dondorian bandit lord by the name of Krull has noted both your presence and your ample resources. Be warned that he may try to raid your city sooner than you think.",
+},
+
+WARNING_REVENGE: {
+	TITLE: "Krull returns",
+	MESSAGE: "Krull's men have been spotted only a few days march from here. His force is even greater and better trained than last time. Prepare to be raided!",
+},
+
+WARNING_RETURN: {
+	TITLE: "Krull returns",
+	MESSAGE: "Krull has returned to collect more tribute. Muster the men!",
+},
+
+ARRIVE: {
+	TITLE: "Krull is here!",
+	MESSAGE: "To arms! To arms men!",
+},
+
+SPOTTED: {
+	TITLE: "Enemy spotted!",
+	MESSAGE: "An enemy host has been spotted! They are coming from the {0}. Our scouts have counted {1} men.",
+},
+
+NO_MEN: {
+	TITLE: "Ransom Collected",
+	MESSAGE: "Since you have no force to oppose Krull, you have no choice but to submit to his demands. 25% of your stored goods are now in his hands.",
+},
+
+DEMAND: {
+	TITLE: "Ransom...",
+	MESSAGE: "Krull the Merciless demands {0}% of your goods. Give him the tribute, or fight for your life!", 
+},
+
+VICTORY: {
+	TITLE: "Victory!",
+	MESSAGE: "You have prevailed. The army of Krull has been defeated. However, Krull himself has escaped and is bound to return.",
+},
+
+DEFEAT: {
+	TITLE: "Defeat!",
+	MESSAGE: "You have been defeated. Krull has taken 60% of your wealth. He will focus on more ripe targets for a while...",
+},
+
+COWARD: {
+	TITLE: "Coward!",
+	MESSAGE: "Krull sees that you have completely walled in your settlement, and his AI is not clever enough to handle this. Be assured that he will return when Jake has solved this issue and smite thee!",
+},
+
+SLAVES: {
+	TITLE: "Victory! Enslave?",
+	MESSAGE: "Ah, I see that you have slaves. Now that Krull is defeated, would you like to enslave his defeated soldiers?",
+},
+
+FINAL_SHOWDOWN: {
+	TITLE: "Final showdown",
+	MESSAGE: "Krull is back. This time he has gathered men from far and wide and rumor has it that he himself is amongst the front lines.",
+},
+
+FINAL_VICTORY: {
+	TITLE: "Final victory",
+	MESSAGE: "Krull is slayed! His men have routed. You have freed the land of his terror. Congratulations!",
+},

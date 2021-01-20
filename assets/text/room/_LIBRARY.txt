@@ -1,0 +1,47 @@
+INFO: {
+	NAME: "Library",
+	NAMES: "Libraries",
+	DESC: "Where knowledge is stored and maintained.",
+	WIKI: {
+		CATEGORY: "Knowledge",
+		NAME: "Libraries",
+		TEXT: "In a library, scribes write and copy tomes of knowledge. Tomes allow you to activate technologies that significantly benefit your city. The library's size and the furnishing determines its maximum amount of knowledge capacity, which can be further increased by factional bonuses and technologies. A library starts empty, and scribes will gradually fill it with books and scrolls. The more of this knowledge a library holds, the more effort scribes will have to put into copying and maintaining existing tomes. Knowledge is used to unlock technologies.",
+	},
+},
+
+BONUS: {
+	NAME: "Knowledge Production",
+	DESC: "Increases the knowledge production.",
+},
+
+WORK: {
+	TITLE: "Scribe",
+	VERB: "Scribing",
+},
+
+STATS: [
+	{
+		NAME: "Capacity",
+		DESC: "The amount of knowlege that can be stored.",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "The efficiency greatly improves knowledge production.",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Scribe Station",
+		DESC: "Where scribes work.",
+	},
+	{
+		NAME: "Shelf",
+		DESC: "Increases the efficiency of the room.",
+	},
+	{
+		NAME: "Carpet",
+		DESC: "Also increases the efficiency of the room.",
+	},
+],
+

@@ -1,0 +1,2 @@
+NAME: "Veterinarian Training",
+DESC: "By experience, our herdsmen and shepherds have gained extensive knowledge into the inner workings of our livestock. This has led them to be able to better medicate the same animals, and also better understand their problems. This can be trained in new herdsmen and shepherds. By taking better care of our livestock, the yields produced from every slaughter have increased.",

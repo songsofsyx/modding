@@ -1,0 +1,9 @@
+NAME: "Meat",
+NAMES: "Meat",
+DESC: "Meat is a food source.",
+WIKI: {
+	NAME: "Meat",
+	TEXT: "Meat is a Primary Resource. It is derived from slaughtering any animals but cannot be derived from sentient species like Dondorians or Kantors. It can be eaten raw, or cooked in Kitchens. Cooked food satisfies the needs of your people better.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Primary Resource",],
+},

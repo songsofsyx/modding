@@ -1,0 +1,13 @@
+INFO: {
+	NAME: "Auroch",
+	NAMES: "Aurochs",
+	DESC: "Aurochs are giant birds that can fly...",
+	WIKI: {
+		CATEGORY: "Animals",
+		NAME: "Aurochs",
+		TEXT: 
+		"Aurochs are giant birds that can fly. But they don't. Weighing in at approximately 35 stones of pure muscle and a very pointy beak, it is quite capable of defending itself. They are employed as beasts of burden, dragging carts laden with goods from one region to another.",
+		KEY: "ANIMAL_AUROCH",
+		LINKS: [],
+	},
+},

@@ -1,0 +1,2 @@
+NAME: "Artificially Induced Seeds",
+DESC: "It has long been noticed that some of the seeds used in grain farms are different from others used in the same farms. Over time it became more and more obvious that some seeds produced healthier plants, taller plants, and so on. The identification of the best seeds, and then, the sowing of these seeds alongside each other has gradually led to artificially induced traits to produce super seeds. This has increasingly led to a homogenisation of our seed banks, but, the yields of grain farms have increased in exchange.",

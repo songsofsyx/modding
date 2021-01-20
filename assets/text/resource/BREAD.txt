@@ -1,0 +1,9 @@
+NAME: "Bread",
+NAMES: "Breads",
+DESC: "Bread is a staple food, produced by bakeries",
+WIKI: {
+	NAME: "Bread",
+	TEXT: "Bread is a Secondary Resource. It is produced in bakeries by fermenting and baking grain.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Secondary Resource",],
+},

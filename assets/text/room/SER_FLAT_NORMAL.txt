@@ -1,0 +1,53 @@
+INFO: {
+	NAME: "Flat House",
+	NAMES: "Flat Houses",
+	DESC: "Where subjects sleep. Improves sleep quality",
+	WIKI: {
+		CATEGORY: "Service",
+		NAME: "Flat Houses",
+		TEXT: "Flat houses are a step up from dormitories, where each client gets their own private bedroom to sleep in. It is serviced by tenants that make the beds after each use.",
+		CATEGORIES: [],
+	},
+},
+
+WORK: {
+	TITLE: "Tenant",
+	VERB: "Making beds",
+},
+
+STATS: [
+	{
+		NAME: "Apartments",
+		DESC: "Available apartments",
+	},
+	{
+		NAME: "Coziness",
+		DESC: "Coziness greatly imroves sleep quality. Improved placing items",
+	},
+	{
+		NAME: "Workers",
+		DESC: "An approximation of how many workers will be required to operate this room.",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Apartment",
+		DESC: "Increases Apartments.",
+	},
+	{
+		NAME: "Nicknacks",
+		DESC: "Adds Coziness to the room.",
+	},
+	{
+		NAME: "Carpets",
+		DESC: "Adds Coziness to the room.",
+	},
+],
+
+SERVICE: {
+	NAME: "Apartment",
+	NAMES: "Apartments",
+	DESC: "Where your subjects sleep",
+	VERB: "Sleeping",
+},

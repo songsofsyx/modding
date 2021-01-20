@@ -1,0 +1,9 @@
+NAME: "Tool",
+NAMES: "Tools",
+DESC: "Most industries allow tools to be equipped to workers for faster production.",
+WIKI: {
+	NAME: "Tools",
+	TEXT: "Tools are tertiary resources used both to increase the production of workers in various industries and also in certain rooms for construction purposes such as for the Stonecutter room. It is made from Metal, a Secondary Resource, produced from the smelting of Ore, a Primary Resource, and Coal, which is uniquely both a Primary and Secondary Resource by the Blacksmith. Tools do not change combat stats.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Tertiary Resource",],
+},

@@ -1,0 +1,4 @@
+INFO: {
+	NAME: "Master of Industry",
+	DESC: "The Master of industry handles all of our industries and boosts their production.",
+},

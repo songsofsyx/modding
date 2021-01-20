@@ -1,0 +1,9 @@
+NAME: "Metal",
+NAMES: "Metal",
+DESC: "Metal is used in a variety of industries and constructions",
+WIKI: {
+	NAME: "Metal",
+	TEXT: "Metal is a Secondary Resource. It is made by the Blacksmith out of the Primary Resources, Coal and Metal. Metal is used in various industries such as by the Toolmaker to make Tools, a Tertiary Resource.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Secondary Resource",],
+},

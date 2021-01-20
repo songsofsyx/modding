@@ -1,0 +1,25 @@
+INFO: {
+	NAME: "Delivery Depot",
+	NAMES: "Delivery Depots",
+	DESC: "Allows you to accept tribute and imports..",
+	WIKI: {
+		CATEGORY: "Trade",
+		NAME: "Delivery Depot",
+		TEXT: "This structure allows you to accept and recieve tribute and imports.",
+	},
+},
+
+STATS: [
+	{
+		NAME: "Crates",
+		DESC: "The amount of crates that will be used for storage.",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Crates",
+		DESC: "Where goods are stored.",
+	},
+],
+

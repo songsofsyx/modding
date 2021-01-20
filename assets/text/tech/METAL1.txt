@@ -1,0 +1,2 @@
+NAME: "Alloys",
+DESC: "It has long been known that various types of vines and wood when combined, makes a far stronger composite material. One of our operators has made an innovation in metallurgy as they mimicked this process. The combination of different metals, and even different qualities of the same metal, has allowed the use of smaller volumes of material to create the same amount of production, or if one presents it in another way, the same amount of material used can now produce more metal.",

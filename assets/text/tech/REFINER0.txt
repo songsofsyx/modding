@@ -1,0 +1,2 @@
+NAME: "Resource Identification",
+DESC: "Our artisans from various fields have over time gotten use in identifying the best sort of materials, be it wood, metal, and what not in order to find what can best be used to transform in the best secondary resources, be it planks, sheetmetal and so on. This has meant overall, an improved yield in all our refining operations, in practically every field as there is less time wasted in failed attempts to refine inferior materials.",

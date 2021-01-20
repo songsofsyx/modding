@@ -1,0 +1,2 @@
+NAME: "Fruit-Plant Pruning",
+DESC: "This type of pruning involves is the trimming or cutting of specific parts of a given fruit plant. This spans several horticultural techniques. It involves cutting branches back, even removing smaller plant limbs completely as well as the removal of leaves from specific branches amongst others. This allows more energy to be directed to the fruit itself, thus improving the yield, by virtue of healthier, larger fruit.",

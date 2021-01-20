@@ -1,0 +1,41 @@
+INFO: {
+	NAME: "Hunter",
+	NAMES: "Hunters",
+	DESC: "Hunters will sneak out into the wilderness, stalk and kill prey to bring back and butcher for meat and resources.",
+	WIKI: {
+		CATEGORY: "Food",
+		NAME: "Hunters",
+		TEXT: "Hunters will sneak out into the wilderness, stalk and kill prey to bring back and butcher for meat and resources. A radius is set in each room to determine how far the hunters will go , the room iteslef beeing the centre. Different animals produce different resources when butchered.",
+		LINKS: [],
+	},
+},
+
+WORK: {
+	TITLE: "Hunter",
+	VERB: "Stalking prey",
+},
+
+VERB2: "Returning prey",
+VERB3: "Butchering carcass",
+
+STATS: [
+	{
+		NAME: "Hunters",
+		DESC: "The max amount of workers",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Efficiency increases production of resources when butchering prey",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Work Bench",
+		DESC: "Where subjects work",
+	},
+	{
+		NAME: "Auxilary Station",
+		DESC: "Adds Efficiency to the room",
+	},
+],

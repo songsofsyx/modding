@@ -1,0 +1,15 @@
+NAME: "Mountain",
+
+INFO: {
+	NAME: "Mountain",
+	NAMES: "Mountains",
+	DESC: "Mountain",
+},
+
+BONUS: {
+	NAME: "Tunneling",
+	DESC: "Decreases the time of tunneling into mountains",
+},
+
+NAME_WALL: "Mountain",
+NAME_CEILING: "Cave",

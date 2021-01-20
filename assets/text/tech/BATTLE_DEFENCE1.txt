@@ -1,0 +1,2 @@
+NAME: "Cateroeu Tactics",
+DESC: "A simple wooden staff is often strong enough to block any cleaver, no matter how large it is, or how strong the one holding it is. The great sword master, Cateroeu has written a work detailing how one, if caught unarmed, or caught out matched, can use a wooden staff, if one is available, to deflect and block enemy strikes until one can escape, or be reinforced. We have procured copies of this great work, and our soldiers will begin learning the methods within it soon.",

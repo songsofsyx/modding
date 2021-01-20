@@ -1,0 +1,2 @@
+NAME: "Coal Infusion",
+DESC: "A new and delicate breakthrough in metallurgy involving delicately infusing coal into the metal itself has led to an improvement in the quality of the metal produced. This has reduced the cases where the produced metal was unsuitable for use, thus it has served to increase the metal yields produced.",

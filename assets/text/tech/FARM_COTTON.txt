@@ -1,0 +1,2 @@
+NAME: "Two-Stage Care",
+DESC: "Experience with the growing of cotton, has led to the development of a two-stage care procedure. The first consits of hard manual labour following specific patterns of tilling, watering, frtilizing and so on. The second stage is the paying os special attention that a rust-like fungus does not effect any part of the developing cotton plant, and any such outbreak is quickly purged to prevent the yield being degraded through infaction. This overall thus all allows the yields of cotton farms to increase",

@@ -1,0 +1,37 @@
+INFO: {
+	NAME: "Door",
+	NAMES: "Doors",
+	DESC: "(Doors doesn't really do anything yet... Improves coziness, hinders sound from travelling, and enemies from entering (WIP).",
+	WIKI: {
+		CATEGORY: "Infrastructure",
+		NAME: "Doors",
+		TEXT: "Placed at entrances. Improves coziness, hinders sound from travelling, and enemies from entering. They would also be a weakspot in any fortification.",
+	},
+},
+
+BONUS: {
+	NAME: "Door Strength",
+	DESC: "Increases strength of all doors.",
+},
+
+STATS: [
+	{
+		NAME: "durability",
+		DESC: "How durable this type of door is,",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Wooden door",
+		DESC: "Simple and cheap. Does a basic job, but wont stand long against an intruder",
+	},
+	{
+		NAME: "Reinforced door",
+		DESC: "A sturdy door, perfect for isolation and good at holding intruders at bay",
+	},
+	{
+		NAME: "Mighty door",
+		DESC: "Expensive, but very strong.",
+	},
+],

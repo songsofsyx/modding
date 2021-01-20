@@ -1,0 +1,9 @@
+NAME: "Fruit",
+NAMES: "Fruit",
+DESC: "Fruit is a food source",
+WIKI: {
+	NAME: "Fruit",
+	TEXT: "Fruit is a Primary Resource which is grown in Farms by Farmers or harvested from the wild. There is no specific type of fruit that farmers grow, but it is an umbrella term for the variety of fruit that they grow. This Primary Resource is immediately consumed or else used in Kitchens to make Cooked Food, which is better at fulfilling the needs of your people.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Primary Resource",],
+},

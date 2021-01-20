@@ -1,0 +1,171 @@
+**
+**			REPUTATION
+**
+**	Herein lies everything reputation related. 
+**	NAME and DESC are self-explanatory.
+**	MIN and MAX are decimal values, determining the relative value of the stat.
+**	POW represents the exponent that is applied to the value.
+**	
+**	In the game the product of all these stats determines your total reputation. Your max reputation is thus the product
+**	of all the stats MAX value. Stats that have a MIN < 1 are thus able to bring down you reputation significantly.
+** 
+**
+
+BATTLEGEAR: {
+	NAME: "Battlegear",
+	DESC: "More military equipment increases performance of subjects in battle.",
+	LEVEL_NAME: "Battlegear Equipped",
+	LEVELS: ["None", "1 Piece", "2 Pieces", "3 Pieces", "4 Pieces", "5 Pieces", "6 Pieces", "7 Pieces", "8 Pieces", "9 Pieces", "10 Pieces", "11 Pieces", "12 Pieces", "13 Pieces", "14 Pieces", "15 Pieces",],
+},
+ARMOUR: {
+	NAME: "Armour",
+	DESC: "The number of armour pieces equipped. WIP",
+	LEVEL_NAME: "Armour Equipment",
+	LEVELS: ["None", "1 Piece", "2 Pieces", "3 Pieces", "4 Pieces", "5 Pieces", "6 Pieces", "7 Pieces", "8 Pieces", "9 Pieces", "10 Pieces", "11 Pieces", "12 Pieces", "13 Pieces", "14 Pieces", "15 Pieces",],
+},
+TOOLS: {
+	NAME: "Tools Equipped",
+	DESC: "Equipped tools can increase the productivity of most professions by a maximum of 25%.",
+	LEVEL_NAME: "Tool Equipment",
+	LEVELS: ["None", "1 Piece", "2 Pieces", "3 Pieces", "4 Pieces", "5 Pieces", "6 Pieces", "7 Pieces", "8 Pieces", "9 Pieces", "10 Pieces", "11 Pieces", "12 Pieces", "13 Pieces", "14 Pieces", "15 Pieces",],
+},
+CLOTHES: {
+	NAME: "Clothes",
+	DESC: "More layers and pieces of clothing protect your subjects from harsh weather and low self esteem.",
+	LEVEL_NAME: "Clothing",
+	LEVELS: ["None", "1 Piece", "2 Pieces", "3 Pieces", "4 Pieces", "5 Pieces", "6 Pieces", "7 Pieces", "8 Pieces", "9 Pieces", "10 Pieces", "11 Pieces", "12 Pieces", "13 Pieces", "14 Pieces", "15 Pieces",],
+},
+INJURIES: {
+	NAME: "Injuries",
+	DESC: "WIP",
+},
+STARVATION: {
+	NAME: "Starvation",
+	DESC: "Lack of food will slowly drain a subject of life and will. Impacts your reputation severely.",
+},
+HUNGER: {
+	NAME: "Hunger",
+	DESC: "How hungry this subject is. Subjects with > 25% hunger will actively look for food.",
+},
+FOOD_LEVEL: {
+	NAME: "Food Rations",
+	DESC: "The amount of food a subject will be given every day.",
+	LEVEL_NAME: "Rations Per Day",
+	LEVELS: ["1 Ration", "1.25 rations", "1.50 rations", "1.75 rations", "2 rations", "2.25 rations", "2.5 rations", "2.75 rations", "3 rations", "3.25 rations", "3.5 rations", "3.75 rations", "4 rations", "4.25 rations", "4.5 rations", "4.75 rations",],
+},
+FEASTING: {
+	NAME: "Feasting",
+	DESC: "The frequency of, and the general quality (food quality, amount and room layout) of feasts.",
+	LEVEL_NAME: "Feast Invitation",
+	LEVELS: ["None", "1 / 15 days", "2 / 15 days", "3 / 15 days", "4 / 15 days", "5 / 15 days", "6 / 15 days", "7 / 15 days", "8 / 15 days", "9 / 15 days", "10 / 15 days", "11 / 15 days", "12 / 15 days", "13 / 15 days", "14 / 15 days", "Every day!",],
+},
+BATHING: {
+	NAME: "Bathing",
+	DESC: "Restrictions on use of the public baths. Increase access by allowing subjects more baths and having good layout of your baths.",
+	LEVEL_NAME: "Bath Access",
+	LEVELS: ["None", "1 / 15 days", "2 / 15 days", "3 / 15 days", "4 / 15 days", "5 / 15 days", "6 / 15 days", "7 / 15 days", "8 / 15 days", "9 / 15 days", "10 / 15 days", "11 / 15 days", "12 / 15 days", "13 / 15 days", "14 / 15 days", "Ever yday!",],
+},
+FOOD_PREFFERENCE: {
+	NAME: "Food Preference",
+	DESC: "When subjects visit a kitchen they try to grab the food they like best. If not present in the ktchen's stores, something else will have to do.",
+},
+FILTH: {
+	NAME: "Filth",
+	DESC: "Filthiness increases over time and due to certain activities.",
+},
+CONSTIPATION: {
+	NAME: "Constipation",
+	DESC: "Constipation increases over time and is relieved in a lavatory.",
+},
+SLEEPINESS: {
+	NAME: "Sleepiness",
+	DESC: "Sleepiness increases over time. Subjects need to sleep once every two days.",
+},
+SLEEP_QUALITY: {
+	NAME: "Sleep Quality",
+	DESC: "Increased by having your subjects sleep in dormitories",
+},
+WORK_SKILL: {
+	NAME: "Work skill",
+	DESC: "Prowess gained through work experience",
+},
+EMPLOYMENT: {
+	NAME: "Employment",
+	DESC: "Employment rate",
+},
+POPULATION: {
+	NAME: "Population",
+	DESC: "Number of Citizens",
+},
+TMP_NAKED: {
+	NAME: "",
+	DESC: "",
+},
+ACCESS_TAVERN: {
+	NAME: "Tavern Access",
+	DESC: "A subject will try to find a tavern when the need arises, if it's close enough and if it is allowed.",
+},
+ACCESS_ROAD: {
+	NAME: "Road Access",
+	DESC: "Increased by building roads and improving road quality.",
+},
+ACCESS_AWE: {
+	NAME: "Awe Impression",
+	DESC: "Increased by monuments and beautification projects that your subjects walk by.",
+},
+ACCESS_LIGHT: {
+	NAME: "Light Coverage",
+	DESC: "Increased by having lights arround your busy junctions and distant outposts.",
+},
+WORK_HOURS: {
+	NAME: "Work Hours",
+	DESC: "Hours of work a day.",
+},
+WORKED_ALL_HOURS: {
+	NAME: "All hours worked",
+	DESC: "WIP",
+},
+UNBURRIED: {
+	NAME: "Unburied Corpses",
+	DESC: "The amount of unburied corpses lying around your city. Corpses should be buried in a graveyard, but will decompose after a while.",
+},
+BURIAL: {
+	NAME: "Burial Respect",
+	DESC: "The average quality of your graveyards. People like a show of respect",
+},
+GRAVE_DESECRATION: {
+	NAME: "Grave Desecration",
+	DESC: "Disturbance of the dead by removing or altering used graveyards is generally frowned upon. Penalty will decrease with time.",
+},
+FOOD_STORES: {
+	NAME: "Food Stores",
+	DESC: "Subjects feel safe knowing there is plenty of food stored in their city. Only stockpiles/kitchens and feast halls are counted.",
+},
+STAMINA: {
+	NAME: "Stamina",
+	DESC: "Decreased by physical activity. Recharges slowly. Tired subjects will try to rest or collapse, leaving them vunerable to attacks.",
+},
+BRACING: {
+	NAME: "Bracing",
+	DESC: "Subjects in combat try to brace themselves. Bracing increases defense and attack rate. The speed in which you brace is determined by your training",
+},
+COMBAT_TRAINING: {
+	NAME: "Combat Training",
+	DESC: "The level of training in the art of fighting.",
+},
+COMBAT_EXPERIENCE: {
+	NAME: "Combat Experience",
+	DESC: "The level of experience this subject has in the art of fighting.",
+},
+COMBAT_TALENT: {
+	NAME: "Skillful Fighter",
+	DESC: "This subject has a talent for fighting.",
+},
+EXHAUSTION: {
+	NAME: "Exhaustion",
+	DESC: "Physical effort exhausts subjects depending on their combat training. Completely exhausted minions will collapse and become helpless.",
+},
+DIVISION: {
+	NAME: "Division",
+	DESC: "The military division this subject has signed up to.",
+},

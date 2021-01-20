@@ -1,0 +1,44 @@
+INFO: {
+	NAME: "Weapon Smithy",
+	NAMES: "Weapon Smiths",
+	DESC: "Forges weapons from coal and metal",
+	WIKI: {
+		CATEGORY: "Industry",
+		NAME: "Weapon Smithy",
+		TEXT: "Forges battlegear from coal and metal. Battlegear are Tertiary Resources. Battlegear are the equipment which is equiped on soldiers in preparation for battle. Battlegear increases the deadliness of our soldiers. Used to equip soldiers for battle, increasing their deadliness.",
+		KEY: "BARRACKS",
+		LINKS: [],
+	},
+},
+
+BONUS: {
+	NAME: "Weapon Forging",
+	DESC: "Increases effetiveness of Weapon Smiths",
+},
+
+WORK: {
+	TITLE: "Weapon Smith",
+	VERB: "Weapon Smithing",
+},
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Efficiency increases production",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Work Bench",
+		DESC: "Where subjects work",
+	},
+	{
+		NAME: "Auxilary Station",
+		DESC: "Adds Efficiency to the room",
+	},
+],

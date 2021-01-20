@@ -1,0 +1,215 @@
+PLAYABLE: true,
+
+PHYSICS: {
+	MASS: 75,
+	ACCELERATION: 3,
+	TOP_SPEED: 3.8,
+	HEIGHT: 7,
+	WIDTH: 9,
+},
+
+PREFERRED: {
+	FOOD: [
+		FRUIT,
+		VEGETABLE,
+		BREAD,
+		MUSHROOM,
+	],
+	STRUCTURE: {
+		MOUNTAIN: 0.5,
+		STONE: 0.5,
+		GRAND: 1.0,
+		WOOD: 1.0,
+	},
+	WORK: {
+		FARM_COTTON: 1.0,
+		FARM_FRUIT: 1.0,
+		FARM_GRAIN: 1.0,
+		FARM_VEG: 1.0,
+	},
+},
+
+BONUS: {
+	MISC: {
+		BUILD: 0.1,
+		FARM: 0.2,
+	},
+	ROOMS: {
+		FARM_GRAIN: 0.1,
+	},
+},
+
+TRAITS: {
+	FIGHTER: 0.0,
+	GLUTTON: 0.2,
+	SLEEPER: 0.2,
+	SPRINTER: 0.0,
+},
+
+APPEARANCE: {
+	SPRITE: Cretonian,
+	SPRITE_EXTRA: Normal,
+	BALD_RATE: 0.1,
+	BEARD_RATE: 0.9,
+	TURNS_GRAY: true,
+	EARS_OFF: 0,
+	EYES_OFF: 0,
+	EYEBROW_OFF: 0,
+	NOSE_OFF: 0,
+	MOUTH_OFF: 0,
+	BEARD1_OFF: 0,
+	BEARD2_OFF: 0,
+	HAIR_OFF: 0,
+	COLORS: {
+		SKIN: [
+			{R: 224, G: 128, B: 109,},
+			{R: 226, G: 128, B: 109,},
+			{R: 220, G: 128, B: 109,},
+			{R: 215, G: 128, B: 109,},
+			
+			{R: 224, G: 120, B: 109,},
+			{R: 224, G: 134, B: 109,},
+			{R: 224, G: 138, B: 109,},
+			{R: 224, G: 110, B: 109,},
+			
+			{R: 224, G: 128, B: 100,},
+			{R: 224, G: 128, B: 95,},
+			{R: 224, G: 128, B: 112,},
+			{R: 224, G: 128, B: 115,},
+			
+			{R: 222, G: 122, B: 101,},
+			{R: 224, G: 128, B: 102,},
+			{R: 228, G: 127, B: 103,},
+			{R: 224, G: 128, B: 104,},
+		],
+		HAIR: [
+			{R: 173, G: 50, B: 50,},
+			{R: 176, G: 50, B: 50,},
+			{R: 178, G: 50, B: 50,},
+			{R: 170, G: 50, B: 50,},
+		],
+		CLOTHES: [
+			{R: 114, G: 101, B: 35,},
+			{R: 142, G: 126, B: 44,},
+			{R: 83, G: 181, B: 94,},
+			{R: 62, G: 135, B: 70,},
+			{R: 105, G: 125, B: 239,},
+			{R: 79, G: 94, B: 181,},
+			{R: 53, G: 64, B: 122,},
+			{R: 193, G: 77, B: 0,},
+		],
+		ARMOUR: [
+			{R: 107, G: 79, B: 65,},
+			{R: 99, G: 99, B: 99,},
+			{R: 168, G: 168, B: 180,},
+			{R: 209, G: 159, B: 54,},
+		],
+		
+		EYE: [
+			{R: 10, G: 10, B: 10,},
+			{R: 15, G: 10, B: 10,},
+			{R: 20, G: 10, B: 10,},
+			{R: 25, G: 15, B: 10,},
+			{R: 10, G: 15, B: 10,},
+			{R: 15, G: 15, B: 10,},
+			{R: 20, G: 15, B: 10,},
+			{R: 25, G: 20, B: 10,},
+			{R: 10, G: 20, B: 10,},
+			{R: 15, G: 20, B: 10,},
+			{R: 20, G: 20, B: 10,},
+			{R: 25, G: 25, B: 10,},
+			{R: 10, G: 25, B: 10,},
+			{R: 15, G: 25, B: 10,},
+			{R: 20, G: 25, B: 10,},
+			{R: 25, G: 10, B: 10,},
+		],
+		LEG: [
+			{R: 80, G: 40, B: 20,},
+		],
+	},
+},
+
+
+
+PROPERTIES: {
+	RESISTANCE_HOT: 0.6,
+	SKINNY_DIPS: 1.0,
+	INTELLIGENCE: 0.3,
+	DEATH_AGE: 75,
+},
+
+CLIMATE: {
+	COLD: 0.2,
+	TEMPERATE: 1.0,
+	HOT: 1.0,
+},
+
+STATS: {
+	SERVICE: {
+		_SERVICE_DORM: {
+			DEFAULT_ACCESS: 0.5,
+			STANDING: {
+				FROM: 1.0,
+				TO: 2.0,
+				MULTIPLIER: 1.0,
+			},
+		},
+	},
+	
+	EQUIPABLE: {
+		_CLOTHES: {
+			DEFAULT_LEVEL: 3,
+			STANDING: {
+				FROM: 1,
+				TO: 3,
+				MULTIPLIER: 1,
+			},
+		},
+	},
+	
+	ACCESS: {
+		HARMONY: {
+			FROM: 1,
+			TO: 1.5,
+			MULTIPLIER: 1.0,
+		},
+	},
+	
+	FOOD: {
+	
+	},
+	
+	BATTLE: {
+	
+	},
+	
+	NEEDS: {
+	
+	},
+	
+	WORK: {
+	
+	},
+	
+	ENVIRONMENT: {
+		SQUARENESS: {
+			FROM: 1.5,
+			TO: 1.0,
+			MULTIPLIER: 0.5,
+		},
+	},
+	
+	MISC: {
+		ENSLAVED: {
+			FROM: 6,
+			TO: 1,
+			MULTIPLIER: 1,
+		},
+	},
+	
+	STORED: {
+	
+	},
+	
+},
+

@@ -1,0 +1,24 @@
+INFO: {
+	NAME: "Stone Mine",
+	NAMES: "Stone Mines",
+	DESC: "Mines extract minerals from the ground. It's efficiency is determined by the density of the minerals along with the auxilery items you place.",
+	WIKI: {
+		CATEGORY: "Industry",
+		NAME: "Mines",
+		TEXT: "Mines extract minerals from the ground. It's efficiency is determined by the density of the minerals along with the auxilery items you place.",
+		LINKS: [],
+	},
+},
+
+
+BONUS: {
+	NAME: "Stone Mining",
+	DESC: "Increases the output of your stone miners.",
+},
+
+WORK: {
+	TITLE: "Stone Miner",
+	VERB: "Mining stone",
+},
+
+

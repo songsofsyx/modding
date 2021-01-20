@@ -1,0 +1,5 @@
+
+INFO: {
+	NAME: "Master of Battle",
+	DESC: "The Master of battle handles our armies and boosts training speed.",
+},

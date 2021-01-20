@@ -1,0 +1,2 @@
+NAME: "Standard Martial Arts",
+DESC: "The instruction in our soldiers of a standardised regime of movement patterns to dodge, parry, block, and counter attack will improve the combat effectiveness of our troops. This will increase the damage that our soldiers can inflict on the enemy.",

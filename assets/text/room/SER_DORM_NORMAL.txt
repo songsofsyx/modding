@@ -1,0 +1,42 @@
+INFO: {
+	NAME: "Dormitory",
+	NAMES: "Dormitories",
+	DESC: "Simple way of providing your subjects a place to sleep",
+	WIKI: {
+		CATEGORY: "Service",
+		NAME: "Dormitories",
+		TEXT: "Dormitories are places where your populace can go to rest and sleep at. Personelle are employed here to conduct maintanance and also set beds after anyone who uses it. Sleeping in beds improves the quality of the sleep with obvious benefits to the user's comfort.",
+		KEY: "BARRACKS",
+		LINKS: [],
+	},
+},
+
+STATS: [
+	{
+		NAME: "Beds",
+		DESC: "Available beds",
+	},
+	{
+		NAME: "Coziness",
+		DESC: "Coziness greatly imroves sleep quality. Improved by having smaller, less regular shaped rooms and by placing items",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Beds",
+		DESC: "Increases available beds.",
+	},
+	{
+		NAME: "Nicknacks",
+		DESC: "Adds Coziness to the room.",
+	},
+],
+
+SERVICE: {
+	NAME: "Bed",
+	NAMES: "Beds",
+	DESC: "The amount of beds",
+	VERB: "Sleeping",
+},
+

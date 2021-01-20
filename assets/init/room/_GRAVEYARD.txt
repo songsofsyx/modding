@@ -1,0 +1,30 @@
+TYPE: GRAVEYARD,
+RESOURCES: [WOOD,STONE,],
+AREA_COSTS: [0.2,0,],
+MINI_COLOR: [70,0,255,],
+
+ITEMS: [
+	{
+		COSTS: [0,2,],
+		STATS: [1,0,],
+	},
+	{
+		COSTS: [2,0,],
+		STATS: [0,4,],
+	},
+	{
+		COSTS: [1,0,],
+		STATS: [0,3,],
+	},
+	{
+		COSTS: [0,2,],
+		STATS: [0,5,],
+	},
+],
+
+
+WORK: {
+	SHIFT_OFFSET: 0.75,
+	SOUND: DIG,
+	USES_TOOL: false,
+},

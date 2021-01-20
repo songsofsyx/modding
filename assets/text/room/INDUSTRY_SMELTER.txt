@@ -1,0 +1,45 @@
+INFO: {
+	NAME: "Metal Smelter",
+	NAMES: "Metal Smelters",
+	DESC: "Industry that turns coal and ore into metal.",
+	WIKI: {
+		CATEGORY: "Industry",
+		NAME: "Metal Smelter",
+		TEXT: "Turns coal and ore into metal. Metal is a Secondary Resource. It is made by the Blacksmith out of the Primary Resources, Coal and Ore. Metal is used in various industries such as by the Toolmaker to make Tools, a Tertiary Resource.",
+		KEY: "BARRACKS",
+		LINKS: [],
+	},
+},
+
+BONUS: {
+	NAME: "Metal Smelting",
+	DESC: "Increases effetiveness of metal smelting",
+},
+
+WORK: {
+	TITLE: "Smelter",
+	VERB: "Smelting metal",
+},
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Efficiency increases production",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Furnace",
+		DESC: "Where subjects work",
+	},
+	{
+		NAME: "Auxilary Furnace",
+		DESC: "Adds Efficiency to the room",
+	},
+],
+

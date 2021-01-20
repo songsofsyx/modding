@@ -1,0 +1,2 @@
+NAME: "Drying Process 2",
+DESC: "An accidental breakthrough by one of our workers who left wood outside for two days in the summer heat has led to a discovery increasing the production of charcoal by our kilns. By letting the wood dry for just the right amount of time we have a far higher production of charcoal from our kilns.",

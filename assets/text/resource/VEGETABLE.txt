@@ -1,0 +1,9 @@
+NAME: "Vegetable",
+NAMES: "Vegetables",
+DESC: "Vegetables are a food source.",
+WIKI: {
+	NAME: "Vegetables",
+	TEXT: "Vegetables are a Primary Resource. This resource is harvested from wild patches or from farms. It can be consumed raw or after being cooked in the Kitchen. Cooked food satisfies your people more. It is not used in any other form of production.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Primary Resource",],
+},

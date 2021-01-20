@@ -1,0 +1,2 @@
+NAME: "Graphite Pencils",
+DESC: "The development of new and far superior pencils, consisting of hollowed out, specifically manufactured wooden tubes, with graphite cores jammed inside has allowed our pencils to last longer, and be more durable when used continuously for long hours. This allows our scribes to write faster, thus increasing the production of knowledge, compared to the old pencils that were cylinder shaped graphite rods wrapped in string.",

@@ -1,0 +1,2 @@
+NAME: "Plough-down Crops",
+DESC: "That produce which is not suitable for our people to consume, and which otherwise is useless, has been found a use. Such crops, our farmers discovered, can be ploughed back into the soil, essentially being buried and allowed to decompose. This decomposition increases the soil's fertility, effectively increasing our yield through stronger crops.",

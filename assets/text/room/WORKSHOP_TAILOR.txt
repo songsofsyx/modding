@@ -1,0 +1,44 @@
+INFO: {
+	NAME: "Tailor",
+	NAMES: "Tailors",
+	DESC: "Sews clothes from fabric or pelts",
+	WIKI: {
+		CATEGORY: "Industry",
+		NAME: "Tailors",
+		TEXT: "Sews clothes from fabric or pelts. Clothes are a Tertiary Resource that are produced by Tailors from Fabrics, a Secondary Resource, from Cotton, a Primary Resource. They convey a mark of civility on the wearer. They are worn on a subject's body to protect them from the elements. They also elevate their self-esteem. Clothes however have a limited life span as they are worn out in time. One pair of clothes lasts a subject roughly 10 days. Clothes are not used to produce any other resource.",
+		KEY: "BARRACKS",
+		LINKS: [],
+	},
+},
+
+BONUS: {
+	NAME: "Tailoring",
+	DESC: "Increases effetiveness of Tailors",
+},
+
+WORK: {
+	TITLE: "Tailor",
+	VERB: "Making Clothes",
+},
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Efficiency increases production",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Work Bench",
+		DESC: "Where subjects work",
+	},
+	{
+		NAME: "Auxilary Station",
+		DESC: "Adds Efficiency to the room",
+	},
+],

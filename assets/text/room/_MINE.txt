@@ -1,0 +1,35 @@
+
+ITEMS: [
+	{
+		NAME: "Storage",
+		DESC: "Where exavated minerals will be stored. All mines need 1 storage.",
+	},
+	{
+		NAME: "Auxiliaries",
+		DESC: "Increases performance of mines. Must not be placed on the actual mineral deposits.",
+	},
+],
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers to operate mine at full capacity",
+	},
+	{
+		NAME: "Deposits",
+		DESC: "The amount deposits",
+	},
+	{
+		NAME: "Output",
+		DESC: "The density of the deposits determine how much output can be gained",
+	},
+	{
+		NAME: "Storage",
+		DESC: "The amount of minerals that can be stored",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Auxiliary items determine how fast deposits can be exevated. Increased by placing Auxiliaries.",
+	},
+],
+

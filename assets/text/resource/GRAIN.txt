@@ -1,0 +1,9 @@
+NAME: "Grain",
+NAMES: "Grain",
+DESC: "Grain is a food source",
+WIKI: {
+	NAME: "Grain",
+	TEXT: "Grain is a Primary Resource. It is harvested from the wild or else grown in farms by Farmers. It can be eaten immediately after harvesting, or else used in a Kitchen. Cooked food satisfies your people more. It is not used in any other production line.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Primary Resource",],
+},

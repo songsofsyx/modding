@@ -1,0 +1,45 @@
+INFO: {
+	NAME: "Charcoaler",
+	NAMES: "Charcoalers",
+	DESC: "Industry that turns wood and cotton into coal.",
+	WIKI: {
+		CATEGORY: "Industry",
+		NAME: "Charcoalers",
+		TEXT: "If Coal cannot be sufficiently collected from coal patches, it can be created by converting wood into charcoal.
+		Coal is thus uniquely the only resource that is falls both in the Primary and Secondary Resource categories as it can either be harvested from coal patches or else created from Wood, a Primary Resource, through the Coaler. Coal is used in various industries and services like to heat water in Bathhouses and also as fuel for Blacksmiths.",
+		KEY: "BARRACKS",
+		LINKS: [],
+	},
+},
+
+BONUS: {
+	NAME: "Charcoaling",
+	DESC: "Increases effetiveness of Charcoalers",
+},
+
+WORK: {
+	TITLE: "Coaler",
+	VERB: "Producing charcoal",
+},
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Efficiency increases production",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Kiln",
+		DESC: "Where subjects work",
+	},
+	{
+		NAME: "Auxilary Kiln",
+		DESC: "Adds Efficiency to the room",
+	},
+],

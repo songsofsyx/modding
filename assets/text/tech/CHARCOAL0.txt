@@ -1,0 +1,2 @@
+NAME: "Dome Kilns",
+DESC: "Through insights into the elements of the air and fire, kilns are now being upgraded. New designs are being used which mitigates the effects of the interference from the charcoaling process. The charcoal produced is now far more long-lasting, and more of the total produce is usable now than ever before. The charcoal produced is also of a greater quality as a fuel, functioning with far greater intensity.",

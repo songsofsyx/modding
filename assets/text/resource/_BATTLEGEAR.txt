@@ -1,0 +1,9 @@
+NAME: "Battlegear",
+NAMES: "Battlegear",
+DESC: "Used to equip soldiers for battle. Increases their deadliness.",
+WIKI: {
+	NAME: "Battlegear",
+	TEXT: "Battlegear are Tertiary Resources. Battlegear are the equipment which is equiped on soldiers in preparation for battle. Battlegear increases the deadliness of our soldiers. Used to equip soldiers for battle, increasing their deadliness",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Tertiary Resources",],
+},

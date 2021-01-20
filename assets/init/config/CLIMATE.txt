@@ -1,0 +1,40 @@
+COLD: {
+	SEASONAL_CHANGE: 1.0,
+	BONUS: {
+		MISC: {
+			FISHING: 0.1,
+			HUNTING: 0.1,
+		},
+		ROOMS: {
+			
+		},
+	},
+	TEMP_COLD: 0.15,
+	TEMP_WARM: 0.7,
+},
+TEMPERATE: {
+	SEASONAL_CHANGE: 0.5,
+	BONUS: {
+		MISC: {
+			FARM: 0.05,
+		},
+		ROOMS: {
+			
+		},
+	},
+	TEMP_COLD: 0.25,
+	TEMP_WARM: 0.8,
+},
+HOT: {
+	SEASONAL_CHANGE: 0,
+	BONUS: {
+		MISC: {
+			FARM: 0.10,
+		},
+		ROOMS: {
+			
+		},
+	},
+	TEMP_COLD: 0.6,
+	TEMP_WARM: 0.85,	
+},

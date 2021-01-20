@@ -1,0 +1,217 @@
+PLAYABLE: true,
+
+PHYSICS: {
+	MASS: 80,
+	ACCELERATION: 3,
+	TOP_SPEED: 4,
+	HEIGHT: 6,
+	WIDTH: 9,
+},
+
+TECH: [
+	*,
+],
+
+PREFERRED: {
+	FOOD: [
+		MEAT,
+		FISH,
+		MUSHROOM,
+	],
+	STRUCTURE: {
+		MOUNTAIN: 1.0,
+		STONE: 0.5,
+		GRAND: 0.7,
+	},
+	WORK: {
+		WORKSHOP_TOOL: 1.0,
+		WORKSHOP_WEAPON: 1.0,
+	},
+},
+
+BONUS: {
+	MISC: {
+		TUNNEL: 0.8,
+		WORKSHOP: 0.3,
+		FARM: -0.1,
+	},
+	ROOMS: {
+		WORKSHOP_TOOL: 0.1,
+		WORKSHOP_WEAPON: 0.1,
+	},
+},
+
+TRAITS: {
+	FIGHTER: 0.1,
+	GLUTTON: 0.1,
+	SLEEPER: 0.1,
+	SPRINTER: 0.1,
+},
+
+APPEARANCE: {
+	SPRITE: Dondorian,
+	SPRITE_EXTRA: Normal,
+	BALD_RATE: 0.4,
+	BEARD_RATE: 0.9,
+	TURNS_GRAY: true,
+	EARS_OFF: 0,
+	EYES_OFF: 0,
+	EYEBROW_OFF: 0,
+	NOSE_OFF: 0,
+	MOUTH_OFF: 0,
+	BEARD1_OFF: 0,
+	BEARD2_OFF: 0,
+	HAIR_OFF: 0,
+	COLORS: {
+		SKIN: [
+			{R: 183, G: 139, B: 119,},
+			{R: 198, G: 150, B: 131,},
+			{R: 214, G: 162, B: 141,},
+			{R: 226, G: 171, B: 149,},
+			{R: 221, G: 139, B: 119,},
+			{R: 232, G: 144, B: 125,},
+			{R: 244, G: 152, B: 132,},
+			{R: 244, G: 170, B: 154,},
+			{R: 221, G: 139, B: 93,},
+			{R: 206, G: 130, B: 88,},
+			{R: 206, G: 139, B: 103,},
+			{R: 206, G: 160, B: 136,},
+			{R: 221, G: 120, B: 93,},
+			{R: 237, G: 129, B: 101,},
+			{R: 237, G: 142, B: 118,},
+			{R: 237, G: 155, B: 135,},
+		],
+		HAIR: [
+			{R: 198, G: 114, B: 54,},
+			{R: 96, G: 27, B: 11,},
+			{R: 196, G: 174, B: 153,},
+			{R: 154, G: 128, B: 101,},
+			{R: 18, G: 18, B: 18,},
+			{R: 35, G: 35, B: 35,},
+			{R: 32, G: 26, B: 26,},
+			{R: 136, G: 46, B: 20,},
+			{R: 84, G: 21, B: 3,},
+			{R: 54, G: 4, B: 7,},
+			{R: 61, G: 9, B: 11,},
+			{R: 35, G: 19, B: 15,},
+			{R: 102, G: 59, B: 16,},
+			{R: 58, G: 36, B: 15,},
+			{R: 116, G: 92, B: 66,},
+			{R: 136, G: 46, B: 20,},
+		],
+		CLOTHES: [
+			{R: 114, G: 101, B: 35,},
+			{R: 142, G: 126, B: 44,},
+			{R: 83, G: 181, B: 94,},
+			{R: 62, G: 135, B: 70,},
+			{R: 105, G: 125, B: 239,},
+			{R: 79, G: 94, B: 181,},
+			{R: 53, G: 64, B: 122,},
+			{R: 193, G: 77, B: 0,},
+		],
+		ARMOUR: [
+			{R: 107, G: 79, B: 65,},
+			{R: 99, G: 99, B: 99,},
+			{R: 168, G: 168, B: 180,},
+			{R: 209, G: 159, B: 54,},
+		],
+		
+		EYE: [
+			{R: 128, G: 173, B: 206,},
+			{R: 104, G: 141, B: 168,},
+			{R: 142, G: 193, B: 229,},
+			{R: 32, G: 74, B: 104,},
+			{R: 9, G: 110, B: 183,},
+			{R: 75, G: 196, B: 23,},
+			{R: 142, G: 196, B: 222,},
+			{R: 29, G: 114, B: 119,},
+			{R: 162, G: 151, B: 131,},
+			{R: 87, G: 95, B: 132,},
+			{R: 19, G: 80, B: 36,},
+		],
+		LEG: [
+			{R: 80, G: 40, B: 20,},
+		],
+	},
+},
+
+
+
+PROPERTIES: {
+	OFFENSE_SKILL: 0.1,
+	DEFENSE_SKILL: 0.1,
+	INTELLIGENCE: 0.6,
+	RESISTANCE_COLD: 0.5,	
+	DEATH_AGE: 200,
+},
+
+CLIMATE: {
+	COLD: 1.0,
+	TEMPERATE: 0.5,
+	HOT: 0.1,
+},
+
+STATS: {
+	SERVICE: {
+		_SER_DORM_NORMAL: {
+			DEFAULT_ACCESS: 0.5,
+			STANDING: {
+				FROM: 1.0,
+				TO: 2.0,
+				MULTIPLIER: 1.0,
+			},
+		},
+	},
+	
+	EQUIPABLE: {
+		_CLOTHES: {
+			ARRIVAL_AMOUNT: 3,
+			DEFAULT_LEVEL: 3,
+			STANDING: {
+				FROM: 1,
+				TO: 2,
+				MULTIPLIER: 2.0,
+			},
+		},
+	},
+	
+	ACCESS: {
+	
+	},
+	
+	FOOD: {
+	
+	},
+	
+	BATTLE: {
+	
+	},
+	
+	NEEDS: {
+	
+	},
+	
+	WORK: {
+	
+	},
+	
+	MISC: {
+	
+	},
+	
+	ENVIRONMENT: {
+		SQUARENESS: {
+			FROM: 1,
+			TO: 1.5,
+			MULTIPLIER: 1,
+		},
+	},
+	
+	STORED: {
+		SITHILON: {
+			FROM: 1,
+			TO: 2.5,
+			MULTIPLIER: 0.5,
+		},
+	},
+},

@@ -1,0 +1,50 @@
+INFO: {
+	NAME: "Feast Hall",
+	NAMES: "Feast Halls",
+	DESC: "Where subjects eat and feast. Increases nurishment and wellbeing.",
+	WIKI: {
+		CATEGORY: "Service",
+		NAME: "Feasthalls",
+		TEXT: "Feast halls are lavish halls Where subjects eat and feast. Feasting is set from the policy tab. Feasts increase nurishment and wellbeing.",
+		KEY: "BARRACKS",
+		LINKS: [],
+	},
+},
+
+WORK: {
+	TITLE: "Innkeeper",
+	VERB: "Setting Tables",
+},
+
+STATS: [
+	{
+		NAME: "Tables",
+		DESC: "Tables for guests",
+	},
+	{
+		NAME: "Coziness",
+		DESC: "Coziness greatly imroves the feasting experience. Improved by having smaller, less regular shaped rooms and by placing items",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Table",
+		DESC: "Increases capacity",
+	},
+	{
+		NAME: "Nicknacks",
+		DESC: "Adds Coziness to the room.",
+	},
+	{
+		NAME: "Carpets",
+		DESC: "Adds Coziness to the room.",
+	},
+],
+
+SERVICE: {
+	NAME: "Table",
+	NAMES: "Tables",
+	DESC: "The amount of tables",
+	VERB: "Feasting",
+},

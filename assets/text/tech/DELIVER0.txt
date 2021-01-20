@@ -1,0 +1,2 @@
+NAME: "Advanced Wheelbarrows",
+DESC: "A new wheelbarrow design which shifts that which our scribes call, 'centre of balance' allows wheelbarrows to be larger, but just as suitable for them to be used to deliver items by our delivery persons. This increased volume in our new wheelbarrows allows our delivery persons to deliver more goods over one journey.",

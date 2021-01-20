@@ -1,0 +1,35 @@
+INFO: {
+	NAME: "Opiate Farm",
+	NAMES: "Opiate Farms",
+	DESC: "Grows Opiates.",
+	WIKI: {
+		CATEGORY: "Agriculture",
+		NAME: "Opiate Farm",
+		TEXT: "Opiates are a Primary Resource. This resource is harvested from wild patches or from farms.",
+	},	
+},
+
+BONUS: {
+	NAME: "Opiate Farming",
+	DESC: "Increases production of Opiate farming.",
+},
+
+WORK: {
+	TITLE: "Opiate Farmer",
+	VERB: "Farming",
+},
+
+STATS: [
+	{
+		NAME: "Fertility",
+		DESC: "The fertility of the farmland",
+	},
+	{
+		NAME: "Farmers",
+		DESC: "The amount of Farmers needed",
+	},
+	{
+		NAME: "Output",
+		DESC: "An estimate of how much this farm will output if well worked. Not including bonuses, or irrigation",
+	},
+],

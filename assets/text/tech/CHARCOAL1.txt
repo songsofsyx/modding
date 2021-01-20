@@ -1,0 +1,2 @@
+NAME: "Pressurized Kilns",
+DESC: "The development of innovations regarding the form and equipment involved with kilns has allowed the kiln operators to control the air pressure inside the kiln. This allows a superior conversion process, one that produces more coal from the same amount of fuel, and then, of a greater quality, such that little waste is produced, compared to the previous systems utilised.",

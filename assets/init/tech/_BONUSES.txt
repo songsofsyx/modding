@@ -1,0 +1,13 @@
+** The following bonuses are static in the game and can be used as keys.
+
+BATTLE_DAMAGE: "",
+BATTLE_DEFENCE: "",
+BUILD: "",
+TUNNEL: "",
+MINE: "",
+REFINER: "",
+WORKSHOP: "",
+PASTURE: "",
+FARM: "",
+HUNTING: "",
+FISHING: "",

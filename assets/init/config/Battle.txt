@@ -1,0 +1,6 @@
+** Damage inflicted by a striking enemy. change to change kill-rate
+DAMAGE: 1.0,
+** The chance to block a striking enemy. Change to change kill-rate of combatants facing each other
+BLOCK_CHANCE: 1.0,
+** How fast subjects train up their experience (and how fast it drops)
+TRAINING_RATE: 1,

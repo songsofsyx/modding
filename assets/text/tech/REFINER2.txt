@@ -1,0 +1,2 @@
+NAME: "Assembly-Line Refining",
+DESC: "One of our more intellectually gifted scribes reasoned that instead of a dozen persons working on a dozen different pieces of material, it is more efficient to have a dozen people working on one piece of material, each being in charge of putting in a specific notch, cutting a specific groove, and so on. When put to the test, this indeed proved to be overall faster, as each person specialised in their small task. This thus has increased their yield.",

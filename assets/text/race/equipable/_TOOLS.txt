@@ -1,0 +1,2 @@
+NAME: "Tools",
+DESC: "Tools greatly improves productivity of workers. Level is set in each industry.",

@@ -1,0 +1,44 @@
+INFO: {
+	NAME: "Weaver",
+	NAMES: "Weavers",
+	DESC: "Industry that turns cotton into fabric.",
+	WIKI: {
+		CATEGORY: "Industry",
+		NAME: "Weavers",
+		TEXT: "Fabric is a Secondary Resource which is produced by the Weaver. Weavers turn Cotton, a Primary Resource into Fabric. Fabric is necessary for the production of Clothes, a Tertiary Resource produced by Tailors, Carpets used in various rooms, and Books used in Libraries.",
+		KEY: "BARRACKS",
+		LINKS: [],
+	},
+},
+
+BONUS: {
+	NAME: "Weaving",
+	DESC: "Increases effetiveness of weavers",
+},
+
+WORK: {
+	TITLE: "Weaver",
+	VERB: "Weaving",
+},
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Efficiency increases production",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Loom",
+		DESC: "Where subjects work",
+	},
+	{
+		NAME: "Auxilary Loom",
+		DESC: "Adds Efficiency to the room",
+	},
+],

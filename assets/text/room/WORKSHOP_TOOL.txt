@@ -1,0 +1,44 @@
+INFO: {
+	NAME: "Tool Smithy",
+	NAMES: "Tool Smithies",
+	DESC: "Forges tools from coal and metal.",
+	WIKI: {
+		CATEGORY: "Industry",
+		NAME: "Tool Smithy",
+		TEXT: "Forges tools from coal and metal. Tools are tertiary resources used both to increase the production of workers in various industries and also in certain rooms for construction purposes such as for the Stonecutter room. It is made from Metal, a Secondary Resource, produced from the smelting of Ore, a Primary Resource, and Coal, which is uniquely both a Primary and Secondary Resource by the Blacksmith. Tools do not change combat stats.",
+		KEY: "BARRACKS",
+		LINKS: [],
+	},
+},
+
+BONUS: {
+	NAME: "Tool Forging",
+	DESC: "Increases effetiveness of Tool Smiths",
+},
+
+WORK: {
+	TITLE: "Tool Smith",
+	VERB: "Tool Smithing",
+},
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Efficiency increases production",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Work Bench",
+		DESC: "Where subjects work",
+	},
+	{
+		NAME: "Auxilary Station",
+		DESC: "Adds Efficiency to the room",
+	},
+],

@@ -1,0 +1,45 @@
+INFO: {
+	NAME: "Bakery",
+	NAMES: "Bakeries",
+	DESC: "Industry that turns grain into bread.",
+	WIKI: {
+		CATEGORY: "Industry",
+		NAME: "Bakery",
+		TEXT: "Turns grain into bread. Bread is a Secondary Resource. It is eaten with much delight.",
+		KEY: "BARRACKS",
+		LINKS: [],
+	},
+},
+
+BONUS: {
+	NAME: "Baking",
+	DESC: "Increases effetiveness of bakaries",
+},
+
+WORK: {
+	TITLE: "Baker",
+	VERB: "Baking bread",
+},
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Efficiency increases production",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Oven",
+		DESC: "Where subjects work and produce bread",
+	},
+	{
+		NAME: "Auxilary Oven",
+		DESC: "Adds Efficiency to the room",
+	},
+],
+

@@ -1,0 +1,9 @@
+NAME: "Egg",
+NAMES: "Eggs",
+DESC: "Eggs are higly nutritious sustenance prouced by some animals.",
+WIKI: {
+	NAME: "Eggs",
+	TEXT: "Eggs are a Primary Resource. They take long to procure due to long interval between eggs being laid. They are a good food source.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Primary Resource",],
+},

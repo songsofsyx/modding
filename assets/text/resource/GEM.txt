@@ -1,0 +1,9 @@
+NAME: "Gem",
+NAMES: "Gems",
+DESC: "The is no use for gems yet",
+WIKI: {
+	NAME: "Gems",
+	TEXT: "Gems are a Primary Resource. They have no purpose currently.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Primary Resource",],
+}

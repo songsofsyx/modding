@@ -1,0 +1,2 @@
+NAME: "Advanced Ergonomics",
+DESC: "Following on our implementation of ergonomic procedures at our workplaces, specifically designed workspaces involving curved tables, multi-tier workspaces and ever specialised adjustable hight seating, has allowed further ease in the work and more comfort in the lives of our workers.",

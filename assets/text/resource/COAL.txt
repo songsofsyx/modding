@@ -1,0 +1,9 @@
+NAME: "Coal",
+NAMES: "Coal",
+DESC: "Coal is the fuel used in various industries and services",
+WIKI: {
+	NAME: "Coal",
+	TEXT: "Coal is uniquely the only resource that is falls both in the Primary and Secondary Resource categories as it can either be harvested from coal patches or else created from Wood, a Primary Resource, through the Coaler. It is used in various industries and services like to heat water in Bathhouses and also as fuel for Blacksmiths.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Primary Resource", "Secondary Resource",],
+},

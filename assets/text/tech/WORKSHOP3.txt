@@ -1,0 +1,2 @@
+NAME: "Work Shifts",
+DESC: "One worker can only work at a steady efficiency for a certain amount of hours. There can only be a certain amount of workers working on any one thing in any workshop, at any one time. Thus, our foremen have reasoned that shifting workers from one specific task in a day, to another, involving a change of workstation, and task involved, tasks specially identified to not be too different, but different enough has, alongside longer breaks, led to improved work efficiency.",

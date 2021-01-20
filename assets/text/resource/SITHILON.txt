@@ -1,0 +1,9 @@
+NAME: "Sithilon Ore",
+NAMES: "Sithilon ores",
+DESC: "A very rare ore. It has no practical use as far as we know, yet is highly coveted by Dondorians, who like to horde it i their caverns.",
+WIKI: {
+	NAME: "Sithilon Ore",
+	TEXT: "A very rare ore. It has no practical use as far as we know, yet is highly coveted by Dondorians, who like to horde it i their caverns.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Primary Resource",],
+},

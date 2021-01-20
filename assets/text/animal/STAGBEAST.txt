@@ -1,0 +1,13 @@
+INFO: {
+	NAME: "Stagbeast",
+	NAMES: "Stagbeasts",
+	DESC: "A mighty antlered beast...",
+	WIKI: {
+		CATEGORY: "Animals",
+		NAME: "Stagbeast",
+		TEXT: 
+		"A mighty antlered beast, this animal thrives on luscious planes. They are prized possessions by hunters as trophies, as securing such a trophy means having faced of a herd of these might beasts that run down whole groups of hunters, while their sharp antlers can pierce any known armour.",
+		KEY: "ANIMAL_STAGBEAST",
+		LINKS: [],
+	},
+},

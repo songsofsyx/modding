@@ -1,0 +1,35 @@
+INFO: {
+	NAME: "Vegetable Farm",
+	NAMES: "Vegetable Farms",
+	DESC: "Grows Vegetables.",
+	WIKI: {
+		CATEGORY: "Agriculture",
+		NAME: "Vegetable Farm",
+		TEXT: "Vegetables are a Primary Resource. This resource is harvested from wild patches or from farms. It can be consumed raw or after being cooked in the Kitchen. Cooked food satisfies your people more. It is not used in any other form of production.",
+	},	
+},
+
+BONUS: {
+	NAME: "Vegetable Farming",
+	DESC: "Increases production of Vegetable farming.",
+},
+
+WORK: {
+	TITLE: "Vegetable Farmer",
+	VERB: "Farming",
+},
+
+STATS: [
+	{
+		NAME: "Fertility",
+		DESC: "The fertility of the farmland",
+	},
+	{
+		NAME: "Farmers",
+		DESC: "The amount of Farmers needed",
+	},
+	{
+		NAME: "Output",
+		DESC: "An estimate of how much this farm will output if well worked. Not including bonuses, or irrigation",
+	},
+],

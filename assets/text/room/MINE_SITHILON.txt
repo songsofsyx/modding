@@ -1,0 +1,24 @@
+INFO: {
+	NAME: "Sithilon Mine",
+	NAMES: "Sithilon Mines",
+	DESC: "Mines extract minerals from the ground. It's efficiency is determined by the density of the minerals along with the auxilery items you place.",
+	WIKI: {
+		CATEGORY: "Industry",
+		NAME: "Mines",
+		TEXT: "Mines extract minerals from the ground. It's efficiency is determined by the density of the minerals along with the auxilery items you place.",
+		LINKS: [],
+	},
+},
+
+
+BONUS: {
+	NAME: "Sithilon Mining",
+	DESC: "Increases the output of your Sithilon miners.",
+},
+
+WORK: {
+	TITLE: "Sithilon Miner",
+	VERB: "Mining Sithilon",
+},
+
+

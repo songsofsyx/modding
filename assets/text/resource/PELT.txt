@@ -1,0 +1,9 @@
+NAME: "Pelt",
+NAMES: "Pelts",
+DESC: "Pelts can be used making Clothes.",
+WIKI: {
+	NAME: "Pelts",
+	TEXT: "Pelts are a Primary Resource. They are derived from slaughtering any animals but cannot be derived from sentient species like Dondorians or Kantors. It is used by Tailors to make Clothes, a Tertiary Resource.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Primary Resource",],
+},

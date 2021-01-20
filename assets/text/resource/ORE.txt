@@ -1,0 +1,9 @@
+NAME: "Ore",
+NAMES: "Ore",
+DESC: "Ore can be processed into Metal",
+WIKI: {
+	NAME: "Ore",
+	TEXT: "Ore is a Primary Resource. It is derived from harvesting from Ore patches. It is used in conjunction with Coal, another Primary Resource, to make Metal, a Secondary Resource, by the Blacksmith.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Primary Resource",],
+},

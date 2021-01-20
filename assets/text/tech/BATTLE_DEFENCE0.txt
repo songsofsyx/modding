@@ -1,0 +1,2 @@
+NAME: "Mob Tactics",
+DESC: "Some of our enemies are far larger and more powerful than us. This is something against which our foot soldiers cannot individually do much against. However, by presenting many targets for an enemy soldier to deal with, the time that it takes for them to decide whom to hit first is enough for our soldiers to be able to help shield each other... or get out of the way.",

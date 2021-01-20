@@ -1,0 +1,9 @@
+NAME: "Fish",
+NAMES: "Fish",
+DESC: "Fish is a food source.",
+WIKI: {
+	NAME: "Fish",
+	TEXT: "Fish is a Primary Resource which is acquired by fisherfolk from even decently sized, natural or artificial body of water. There is no specific type of fish that are caught. This Primary Resource is immediately consumed or else used in Kitchens to make Cooked Food, which is better at fulfilling the needs of your people.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Primary Resource",],
+},

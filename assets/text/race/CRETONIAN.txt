@@ -1,0 +1,17 @@
+NAME: "Cretonian",
+NAMES: "Cretonians",
+POSSESSIVE: "Cretonian",
+DESC: 
+"Cretonians excel at farming and thrive in temperate and warm climates, preferably close to water. They are vegetarians and prefer harmony and wooded structures."
+",
+DESC_LONG:
+"
+Cretonians are the children of Crator, god of growth. And from their creating father they have gained skills in farming. They are vegetarians and harmonious creatures. They are also peaceful and not fit for battle.
+Their favourite foods are Fruit, Vegetable, Mushrooms and Grain.
+They prefer wooden structures and, harmony and farming work.
+",
+
+FIRST_NAMES: StdFirst,
+SURNAMES: StdLast,
+FIRST_NAMES_NOBLE: StdFirstNoble,
+SURNAMES_NOBLE: StdLastNoble,

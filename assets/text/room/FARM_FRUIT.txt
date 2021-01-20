@@ -1,0 +1,36 @@
+INFO: {
+	NAME: "Fruit Farm",
+	NAMES: "Fruit Farms",
+	DESC: "Grows fruit.",
+	WIKI: {
+		CATEGORY: "Agriculture",
+		NAME: "Fruit Farm",
+		TEXT: "Fruit is a Primary Resource which is grown in Farms by Farmers or harvested from the wild. There is no specific type of fruit that farmers grow, but it is an umbrella term for the variety of fruit that they grow. This Primary Resource is immediately consumed or else used in Kitchens to make Cooked Food, which is better at fulfilling the needs of your people.",
+		
+	},	
+},
+
+BONUS: {
+	NAME: "Fruit Farming",
+	DESC: "Increases production of Fruit farming.",
+},
+
+WORK: {
+	TITLE: "Fruit Farmer",
+	VERB: "Farming",
+},
+
+STATS: [
+	{
+		NAME: "Fertility",
+		DESC: "The fertility of the farmland",
+	},
+	{
+		NAME: "Farmers",
+		DESC: "The amount of Farmers needed",
+	},
+	{
+		NAME: "Output",
+		DESC: "An estimate of how much this farm will output if well worked. Not including bonuses, or irrigation",
+	},
+],

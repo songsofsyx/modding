@@ -1,0 +1,28 @@
+PASTURE: {
+	WIKI: {
+		CATEGORY: "Food",
+		NAME: "Pastures",
+		TEXT: "Breeds animals that can be slaughtered for pelts and meat.",
+	},
+},
+FARM: {
+	WIKI: 	{
+		CATEGORY: "Food",
+		NAME: "Farming",
+		TEXT: "Farms are where subjects turn soil, water, sunlight and time into useful crops, such as grain or cotton.
+The work process is governed by the four seasons: 
+%r%%r%
+Spring - Clearing weeds%r%
+Summer - Tending to the crops%r%
+Autumn - Harvesting%r%
+Winter - Resting
+%r%%r%
+This means that a farmer isn't very busy during the Spring and Winter and is available for other chores.
+%r%%r%
+Farms are best placed on ground with high fertility. You can see soil fertility by holding the right mouse button 
+on the map. If a farm gets all the work it needs, the farmer's work skill and tool level can double the yield. Technologies and bonuses can further increase this.
+Rainfall and irrigation also influence yield. An 8x8 farm with 30% fertility produces, at minumum, about enough food for 1 subject. A 100% fertile farm of the same size will produce enough food for 8 subjects.
+	",
+	},
+},
+

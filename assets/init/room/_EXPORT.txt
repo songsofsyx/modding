@@ -1,0 +1,19 @@
+RESOURCES: [STONE,WOOD,],
+AREA_COSTS: [0.1,0.1,],
+FLOOR: STONE,
+FLOOR2: STONE_MEDIUM,
+MINI_COLOR: [48,139,204,],
+
+WORK: {
+	SHIFT_OFFSET: 0.25,
+	SOUND: SWORD,
+	USES_TOOL: true,
+},
+
+ITEMS: [
+	{
+		COSTS: [1,1,],
+		STATS: [1,],
+	},
+],
+

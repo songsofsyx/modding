@@ -1,0 +1,2 @@
+NAME: "Catagorization",
+DESC: "By categorizing books in accordance with their topic, by author in alphabetical order, our librarians have found a far more optimal way to store books and scrolls, and other media (even ancient stone tablets, that our elders used to use). This has saved much space and thus increased the storage capacity of our libraries by freeing up space on their shelves as obsolete or replica works can now be filtered out.",

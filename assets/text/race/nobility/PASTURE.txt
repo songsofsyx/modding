@@ -1,0 +1,4 @@
+INFO: {
+	NAME: "Master of Lifestock",
+	DESC: "The Master of lifestock handles our pastures and hunters, increasing their yeild.",
+},

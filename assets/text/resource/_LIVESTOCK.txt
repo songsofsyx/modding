@@ -1,0 +1,9 @@
+NAME: "Livestock",
+NAMES: "Livestocks",
+DESC: "Neat little domesticated animals wrapped in boxes that can be used to populate pastures.",
+WIKI: {
+	NAME: "Livestock",
+	TEXT: "Neat little domesticated animals wrapped in boxes that can be used to populate pastures.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Tertiary Resource",],
+},

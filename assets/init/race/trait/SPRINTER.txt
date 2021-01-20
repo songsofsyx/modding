@@ -1,0 +1,4 @@
+PROPERTIES: {
+	STAMINA: 0.1,
+},
+OCCURENCE: 0.5,

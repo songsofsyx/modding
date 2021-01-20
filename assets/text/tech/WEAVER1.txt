@@ -1,0 +1,2 @@
+NAME: "Thread and Needle Improvements",
+DESC: "Improvements in the quality and length of the thread that our weavers use, and the quality of their needles thanks to innovations in their manufacture by the same weavers, has allowed them to produce textiles of superior quality, meaning less waste and hence more yield.",

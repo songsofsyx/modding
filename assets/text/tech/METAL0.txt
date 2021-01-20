@@ -1,0 +1,2 @@
+NAME: "Air Circulation",
+DESC: "A new design of air compressors used in our furnaces has given the operators more control on the air flow and circulation. This allows the temperature in our furnaces to be far higher than before, making the most of our fuel, as well as the ore used in our metal production. This has thus brought an increase in the production of metal.",

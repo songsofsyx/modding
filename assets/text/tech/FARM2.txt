@@ -1,0 +1,2 @@
+NAME: "Organic Pesticides",
+DESC: "Various insects have long since plagued our crops, consuming them before our farmer's eyes who by and large until now have been helpless to stop them. Now, our farmers have discovered that certain herbs and flowers can effectively repel these pests. We can now place them in and around crops to keep insects away, protecting our crops from these pests, thus increasing our yield.",

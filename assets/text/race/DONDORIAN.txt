@@ -1,0 +1,17 @@
+NAME: "Dondorian",
+NAMES: "Dondorians",
+POSSESSIVE: "Dondorian",
+DESC: 
+"Dondorians sturdy and stubborn. Doesn't care much for farming, but excell at mining and refinement and is sturdy in battle."
+",
+DESC_LONG:
+"Dondorians aren't born, but created by the gods themselves. Or so it is believed. They pop into existance at the slopes of MT Cerebus, already fully grown. They wander out of the 
+dense forest and through the surrounding fields in a sort of trance. No one has actually seen the creation process, but there are talks of bright flashes in the night inside the thick and dense forest. 
+From the moment of their strange birth, their will and dermination is set in stone. They live for many hundreds of years and some are believed to have existed since the war of the gods, though their memory of that time is clouded and fragmented. They are far from dumb, but lack the imagination of their human cousins. Mining, meat eating and waging war against Amevias are among their favorite occupations.%r%%r%
+Their favorite foods are Meat, Fish, Mushrooms and Grain.
+",
+
+FIRST_NAMES: StdFirst,
+SURNAMES: StdLast,
+FIRST_NAMES_NOBLE: StdFirstNoble,
+SURNAMES_NOBLE: StdLastNoble,

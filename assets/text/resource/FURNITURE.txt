@@ -1,0 +1,9 @@
+NAME: "Furniture",
+NAMES: "Furniture",
+DESC: "Furniture is used in constructing and maintaining most rooms",
+WIKI: {
+	NAME: "Furniture",
+	TEXT: "Furniture is a Secondary Resource produced by Carpenters from Wood, a Primary Resource. Furniture is needed in various rooms that produce other things as it is where workbenches, work stations, chairs and other items for other workshops are made by your diligent workers. Furniture is a resource also used in dormitories. This resource is needed both to construct but also to maintain most rooms.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Secondary Resource",],
+},

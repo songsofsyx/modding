@@ -1,0 +1,44 @@
+INFO: {
+	NAME: "Carpenter",
+	NAMES: "Carpenters",
+	DESC: "Carves furniture out of wood",
+	WIKI: {
+		CATEGORY: "Industry",
+		NAME: "Carpenters",
+		TEXT: "Carves furniture out of wood. Furniture is a Secondary Resource produced by Carpenters from Wood, a Primary Resource. Furniture is needed in various rooms that produce other things as it is where workbenches, work stations, chairs and other items for other workshops are made by your diligent workers. Furniture is a resource also used in dormitories. This resource is needed both to construct but also to maintain most rooms.",
+		KEY: "BARRACKS",
+		LINKS: [],
+	},
+},
+
+BONUS: {
+	NAME: "Wood Carving",
+	DESC: "Increases effetiveness of Carpenters",
+},
+
+WORK: {
+	TITLE: "Carpenters",
+	VERB: "Crafting furniture",
+},
+
+STATS: [
+	{
+		NAME: "Workers",
+		DESC: "The amount of workers",
+	},
+	{
+		NAME: "Efficiency",
+		DESC: "Efficiency increases production",
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "Work Bench",
+		DESC: "Where subjects work",
+	},
+	{
+		NAME: "Auxilary Station",
+		DESC: "Adds Efficiency to the room",
+	},
+],

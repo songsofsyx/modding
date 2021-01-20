@@ -1,0 +1,2 @@
+NAME: "Advanced Fungiculture",
+DESC: "It has long been known that fungus, specifically, mushrooms, grow in dark and damp rooms. It is most recently discovered by accident that the activities of certain insects like Greeneater Ants, Blind Termites, Boletus Beetles, and Damp Periweri Terywinkles. It was discovered that these insects consume specific parts of mushrooms, but at a sustainable rate. This leads to mushrooms to grow larger, healthier, and surprisingly, tastier too. Thus, this has served to improve the yield and quality of the produce of our mushroom farms.",

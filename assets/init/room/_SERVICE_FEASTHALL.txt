@@ -1,0 +1,40 @@
+TYPE: FEASTHALL,
+RESOURCES: [WOOD,FURNITURE,FABRIC,],
+AREA_COSTS: [0.2,0,0,],
+FLOOR: WOOD,
+MINI_COLOR: [198,106,0,],
+
+ITEMS: [
+	{
+		COSTS: [2,2,0,],
+		STATS: [1,0,],
+	},
+	{
+		COSTS: [2,2,0,],
+		STATS: [0,1,],
+	},
+	{
+		COSTS: [0,0,1,],
+		STATS: [0,0.75,],
+	},
+],
+
+
+WORK: {
+	SHIFT_OFFSET: 0.5,
+	SOUND: FABRIC,
+	USES_TOOL: false,
+},
+
+SERVICE: {
+	DEFAULT_ACCESS: 0.2,
+	DEFAULT_VALUE: 2.0,
+	STANDING: {
+		FROM: 1.0,
+		TO: 3.0,
+		EXPONENT: 0.8,
+		MULTIPLIER: 1,
+	}, 
+},
+
+

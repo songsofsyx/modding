@@ -1,0 +1,9 @@
+NAME: "Fabric",
+NAMES: "Fabric",
+DESC: "Fabric is used to make Clothes, Carpets and Books.",
+WIKI: {
+	NAME: "Fabric",
+	TEXT: "Fabric is a Secondary Resource which is produced by the Weaver. Weavers turn Cotton, a Primary Resource into Fabric. Fabric is necessary for the production of Clothes, a Tertiary Resource produced by Tailors, Carpets used in various rooms, and Books used in Libraries.",
+	CATEGORY: "Resources",
+	CATEGORIES: ["Secondary Resource",],
+},
